@@ -251,7 +251,7 @@ class Decoder(nn.Module):
             hparams.decoder_rnn_dim + hparams.encoder_embedding_dim, 1,
             bias=True, w_init_gain='sigmoid')
         
-        self.speaker_embeds = nn.Embedding(hparams.n_speakers, hparams.speaker_embedding_dim)
+        # self.speaker_embeds = nn.Embedding(hparams.n_speakers, hparams.speaker_embedding_dim)
         
         self.lang_embeds = nn.Embedding(hparams.n_langs, hparams.lang_embedding_dim)
 
@@ -404,7 +404,8 @@ class Decoder(nn.Module):
         lang = language number
         RETURNS: [max_audio_len, batch_size*mcn, n_mel_filters*n_frames_per_step+speaker_embed+lang_embed+residual_embed]
         '''
-        speaker_embeds, lang_embeds = self.speaker_embeds(speaker), self.lang_embeds(lang)
+        # speaker_embeds, lang_embeds = self.speaker_embeds(speaker), self.lang_embeds(lang)
+        speaker_embeds, lang_embeds = speaker, self.lang_embeds(lang)
         decoder_inputs = decoder_inputs.transpose(0,1).transpose(1,2).repeat(self.mcn, 1, 1)
         speaker_embeds, lang_embeds = speaker_embeds.repeat(self.mcn, 1), lang_embeds.repeat(self.mcn, 1)
         to_append = torch.cat([speaker_embeds, lang_embeds, residual_encoding], dim=-1)        

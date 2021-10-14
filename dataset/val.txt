@@ -1,0 +1,1530 @@
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573220.wav|C'est un danger de dictature!|79|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521117.wav|Karoline beginnt mit dem Frühjahrsputz.|37|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863402.wav|Monsieur Géronte était, sois-en bien convaincu.|56|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686028.wav|In vielen Filmen und Serien scheinen die Charaktere Superkräfte zu haben.|0|1
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18357234.wav|Gibt es eine Flugverbindung zwischen Mainz und Lübeck?|70|1
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18376028.wav|Teheran ist die Hauptstadt vom Iran.|38|1
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717416.wav|Hand aufs Herz: Wann war das letzte Backup?|55|1
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18376196.wav|Die Valenzschale eines Atoms beeinflusst dessen chemische Eigenschaften.|38|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213116.wav|Filme und Computerspiele fressen den meisten Speicherplatz auf der Festplatte.|11|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923216.wav|От чеканки монет также пришлось отказаться.|7|4
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881312.wav|Мы все знаем, каковы результаты этих усилий.|51|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911495.wav|Объявление результатов выборов председателей главных комитетов.|34|4
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229610.wav|Wenn man schon Pfand zahlt, dann sollte man auch eine Mehrwegflasche bekommen.|48|1
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197319.wav|trois chemin des Grous d'Aubin, quatre-vingt-onze, sept cent soixante à Itteville|24|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576257.wav|Ha je comprends, c'est une bonne raison.|79|0
+dataset/clean_comvoi/de/wavs/23/common_voice_de_18389053.wav|Ist das ein Unfallfahrzeug?|78|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881331.wav|Если больше никто не желает взять слово, то это заседание закрывается.|51|4
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778465.wav|Sans reproches, c'est la troisième fois.|68|0
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197197.wav|Il s'en va.|24|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860848.wav|Mit den täglichen Autolawinen haben unsere Städte schon genug zu kämpfen.|58|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213265.wav|Die A-vierzig durchquert das ganze Ruhrgebiet, von Duisburg bis Dortmund.|11|1
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390635.wav|Die Schale von Eiern ist hart, während das Innere klebrig ist.|16|1
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778724.wav|Et voilà que j'avais pris le tramway.|68|0
+dataset/clean_comvoi/de/wavs/48/common_voice_de_18293496.wav|Eine Klimaanlage war für Marco reiner Luxus.|62|1
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717839.wav|Die Viehdiebe haben die Herde in einen Bach getrieben, um die Spuren zu verwischen.|55|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18103363.wav|J'écoutais ce jeune homme, qui parlait à Inès.|12|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603327.wav|Est-ce que les châtelains vivent là à l'année?|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881939.wav|Мы знаем, как более эффективно использовать ресурсы.|34|4
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18736443.wav|Ze sliepen de hele reis op de achterbank.|27|2
+dataset/clean_comvoi/nl/wavs/07/common_voice_nl_17705759.wav|Zij werkt als rechter voor het Europees Hof van Justitie.|81|2
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18646944.wav|zhècháng sìhū yǒngyuǎn wúfǎ táolí de pàidùi， zhòngfù sǐqù de tā shìtú jiěkāi zhègè mítuán。|54|3
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_18130673.wav|Hier, j'ai annoncé officiellement votre mariage au prince de Conti.|10|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778414.wav| Il pourrait être important de préciser en quoi consistent les moyens.|68|0
+dataset/clean_comvoi/de/wavs/46/common_voice_de_18203425.wav|Ab ins Trainingslager!|46|1
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18561282.wav|Eine der renommiertesten Unis Afrikas befindet sich in Stellenbosch.|5|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239680.wav|Hent Bec Kroissen, vingt-neuf mille neuf cent cinquante Bénodet|73|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695495.wav|Iedereen staat in tenminste één gemeente ingeschreven.|20|2
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18863716.wav|On improvisera sur place en attendant les renforts.|57|0
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233616.wav|Löcher auf Kniehöhe lassen sich gut flicken, indem man eine Hosentasche draufnäht.|60|1
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776168.wav|zhǎnzhuǎn jīnglì táinán bóài， xīnyíng hēisōng， hé měi děng jùtuán， cóngshì nèitái gēzǐxì yǎnchū。|83|3
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689466.wav|Das muss erst geklärt werden.|22|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18878489.wav|Хорошо. Работайте!|34|4
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778445.wav|Nous faisons de nos morts ce que nous voulons.|68|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778439.wav|L'inquisition, avec la grossière milice de ses familiers, atteignit de moins près l'existence intérieure.|68|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18376094.wav|Zur Verbesserung der Empfangssituation kann eine Außenantenne verwendet werden.|38|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931899.wav|Поскольку регион граничит с Западной Африкой, все эти беды быстро перекинулось и на нее.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887746.wav|Сегодня улучшение стратегического контекста должно оказаться более легким делом, чем три десятилетия назад.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923087.wav|Теперь я предоставляю слово представителю Армении.|7|4
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267225.wav|Zij is erg fotogeniek.|28|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891741.wav|И внизу повесил эту газету с заголовком: Творить для народа, во имя коммунизма.|34|4
+dataset/clean_comvoi/fr/wavs/15/common_voice_fr_17747536.wav|Il y a deux ans, nous avons essayé de valoriser les filières courtes.|25|0
+dataset/clean_comvoi/de/wavs/33/common_voice_de_18360382.wav|Ich weiß nicht, welcher Weg sicher ist.|74|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602498.wav|Le soir, elle mange sa soupe avec délectation.|79|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875184.wav|Это также важный инструмент для преодоления политических разногласий, содействия примирению и укрепления долгосрочной стабильности.|51|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888320.wav|Благодарю представителя Исламской Республики Иран за его заявление.|34|4
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689494.wav|Bevor der Stein versunken ist, ist er dreimal an der Oberfläche aufgeditscht.|22|1
+dataset/clean_comvoi/de/wavs/43/common_voice_de_18432731.wav|An diesen fünf untrüglichen Anzeichen erkennen Sie einen Lügner.|63|1
+dataset/clean_comvoi/de/wavs/11/common_voice_de_18737758.wav|Diese Seife ist seifenfrei.|65|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521022.wav|Das Bauteil hat sich plastisch verformt.|37|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923212.wav|И по этой причине мы вновь проголосовали против данного проекта резолюции в этом году.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888217.wav|И, всплеснув руками, Женя с отчаянием добавила: - Ну, сестра, сестра и сестра!|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891627.wav|В этом контексте также можно упомянуть рабочий документ, предложенный Эквадором.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602446.wav|Des révérences ironiques s'échangeaient sur les marches de grès.|79|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708591.wav|De luier zat opnieuw vol met uitwerpselen.|19|2
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18652927.wav|Murmura-t-elle en se penchant jusqu'à toucher son épaule.|47|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603420.wav|Quelle est votre erreur!|79|0
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493616.wav|La présentation du billet d'entrée est suffisante, il n’y a rien à payer en sus.|75|0
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18650576.wav|wǎngluò mìjíxíng yìngyòngchéngxù xūyào jùyǒu gāodàikuān qiě dī yánchí de wǎngluò jīchǔjiàgōu。|54|3
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18450398.wav|Mein Navi kennt keine Georg-Friedrich-Händel-Gasse.|36|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686340.wav|Mediterrane Ernährung ist nicht nur Olivenöl, Fischspeisen und Fetakäse.|0|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695433.wav|Als je mentale problemen hebt is een psycholoog de dokter die je zoekt.|20|2
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18653361.wav|Wenn Prozessoren beim Übertakten durchschmoren, sterben sie den Heldentod.|36|1
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084707.wav|Je citerai enfin comme une simple curiosité six Poésies Médianimiques que Monsieur L.|49|0
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18647976.wav|Spionierst du mich aus?|39|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708629.wav|Wat is de lengte van je oprit?|19|2
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861626.wav|La parole est à Monsieur Yves Jégo.|56|0
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18278361.wav|Or, en imposant un commun accord, l'article L.|73|0
+dataset/clean_comvoi/de/wavs/32/common_voice_de_18634202.wav|Das schwarze Gold wird in Zukunft an Bedeutung verlieren.|26|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888010.wav|Следует продолжать и поддерживать эти усилия.|34|4
+dataset/clean_comvoi/de/wavs/26/common_voice_de_18703456.wav|Ihr könntet wenigstens ein kleines bisschen Interesse heucheln.|15|1
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493652.wav|J'accepte toutes les conditions, dis-je à mon mari.|75|0
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213183.wav|Meike hatte ihr von Anfang an davon abgeraten.|11|1
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706264.wav|Man hätte uns die Ohren lang gezogen, wenn man uns erwischt hätte.|35|1
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920552.wav|Мы признательны Вам за умелое руководство работой Совета.|43|4
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892676.wav|Мы являемся стойкими поборниками Организации Объединенных Наций и эффективной многосторонности.|53|4
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327369.wav|Olivia macht einen ziemlich verplanten Eindruck.|77|1
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18375926.wav|Zeige mir die kürzeste Route nach Hause.|38|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439432.wav|Wahrzeichen der Stadt Lübeck ist das Holstentor.|36|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891724.wav|Почти не уменьшая хода, машина круто развернулась.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891789.wav|И старуха протянула ему обратно часы.|34|4
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532818.wav|Trennen Sie bitte sorgfältig den Müll.|69|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653063.wav|Je suis mieux renseignée que vous, Monsieur de Montalivet!|47|0
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240228.wav|Telle est l'analyse que nous défendons.|73|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778405.wav|Place Léon Litaud, quatre-vingt-sept, trois cent dix Saint-Laurent-sur-Gorre|68|0
+dataset/clean_comvoi/de/wavs/04/common_voice_de_18372817.wav|In der Schengen-Zone reicht es, wenn man seinen Personalausweis dabei hat.|29|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686424.wav|Venezuela kann einem echt leidtun.|0|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653276.wav|Les yeux verts luisaient.|47|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520703.wav|Der Steinmetz präsentierte uns eine Vielzahl verschiedener Grabsteine.|37|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860843.wav|Mohammed möchte ein Teelicht anzünden, findet aber kein Streichholz.|58|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888233.wav|Как мне думается, никто не может отрицать, что тут есть проблема.|34|4
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18364603.wav|Phnom Penh ist die Hauptstadt von Kambodscha.|70|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_18133175.wav|Ze hebben hem de laan uitgestuurd.|19|2
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717276.wav|Ruhe! Der Hauptmann will etwas sagen.|55|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143313.wav|sa voisine commençait à l'énerver avec les airs qu’elle se donnait.|50|0
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717385.wav|Mit einem Affenzahn schießt er über die Startbahn.|55|1
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18660054.wav|cūixié cóngxiǎo xiàoxíng， tā kǎozhōng jìnshì， dànrèn dùzhī xúnguān， wèinán xiànwèi， zhí shǐguǎn， lìsānshǔ。|54|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881947.wav|А ей показалось, что это ее корабль-сарай медленно и спокойно по волнам разворачивается.|34|4
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18650684.wav|xiǎochuān xióngshì shēngyú shénnàichuānxiàn héngbīnshì， shì yīmíng rìběn nánzǐ róudào yùndòngyuán， céng huòdé hùnhé tuántǐguānjūn。|54|3
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18648927.wav|Was ist so schlimm daran?|5|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18278331.wav|Rue de la Vigne à la Croix au numéro neuf|73|0
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327271.wav|Ich denke, insgeheim hat Stefanie sich schon so etwas gedacht.|77|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888313.wav|Они сломали две ветки и помяли клумбу.|34|4
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18642214.wav|Nach einigen Wochen Übung geht der Ablauf in Fleisch und Blut über.|39|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602416.wav|Promit-il, à l'éphèbe qui le menaça de son fusil vide.|79|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915513.wav|Не упомянуты базовые санкционные резолюции Совета Безопасности.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882069.wav|Вероятно, ругательство или что-нибудь в этом смысле.|34|4
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706433.wav|Ida ist mal wieder mit ihrer Familie und mit Leopold am Gardasee.|35|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602462.wav|Les gérants joignaient la plongée sous-marine et les alcooliques.|79|0
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18224491.wav|Erschrocken machte Edgar einen Satz zur Seite.|80|1
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084973.wav|Rue Ulysse Ginat, Fagnières|49|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888052.wav|В создании эффективной системы раннего предупреждения важную роль также могут играть региональные организации.|34|4
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18224710.wav|Als Zwischenstopp auf der Route einfügen.|80|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696249.wav|De dolfijnen sprongen uit het water voor de boeg van het schip.|20|2
+dataset/clean_comvoi/de/wavs/48/common_voice_de_18293513.wav|Es mag ein wenig altbacken erscheinen, aber es funktioniert.|62|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521115.wav|Es ist Zeit, die Saat auszustreuen.|37|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896928.wav|Представитель израильского режима упомянул об одной иранской женщине.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907372.wav|Что ты все там бормочешь, выдумываешь, не даешь спокойно умыться!|34|4
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686093.wav|Die Seele baumeln lassen.|0|1
+dataset/clean_comvoi/nl/wavs/10/common_voice_nl_17722693.wav|Almere ligt in Flevoland.|41|2
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906346.wav|Het pak suiker weegt duizend gram.|66|2
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920816.wav|Может быть, действительно, эта разница в семнадцать порядков требуется для того, чтобы существовала жизнь.|43|4
+dataset/clean_comvoi/fr/wavs/05/common_voice_fr_18444325.wav|Savons-nous, d'ailleurs, ce qui se trame en Morée?|32|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686108.wav|Sie hat keinen anderen Ausweg gesehen.|0|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882004.wav|На прошлой неделе я уже говорила, что слово важно подкреплять делом.|34|4
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327536.wav|Langfristig sollten wir nicht abhängig von einem einzelnen Zulieferer sein.|77|1
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390599.wav|Athen ist die Hauptstadt von Griechenland.|16|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860925.wav|Hältst du uns für ein lohnendes Angriffsziel?|58|1
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532847.wav|Das ist eine Methode aus der Kriminalistik.|69|1
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390640.wav|Der Hund ließ sich streicheln.|16|1
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_18130657.wav|En effet! Je pense toutefois utile de préciser un certain nombre de choses.|10|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18362800.wav|In der Schengen-Zone reicht es, wenn man seinen Personalausweis dabei hat.|38|1
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18224857.wav|Wie ist der aktuelle Status?|80|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239677.wav|Elle donnait des cours de français à des femmes immigrées deux fois par semaine.|73|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696867.wav|Ze hadden Emma herkent door middel van een robotfoto.|20|2
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706422.wav|Im Sanddornweg musste die Feuerwehr die Keller leer pumpen.|35|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891438.wav|Девочка, когда будешь уходить, захлопни крепче дверь, насмешливо прочел старик.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576195.wav|A ce bruit, maintes gens sortirent des boutiques.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911861.wav|Если нет возражений, я буду считать, что Ассамблея намерена поступить таким образом.|34|4
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717327.wav|Ihm fehlt die nötige Coolness.|55|1
+dataset/clean_comvoi/zh/wavs/05/common_voice_zh-CN_18682387.wav|sūlián nv̌ yánjīuzhě yě céng yú tóngnián dúlì tíchū cǐ suànfǎ。|82|3
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776340.wav|gāi wǎngzhàn shǔyú táiwān shùzì kējìgǔfèn yǒuxiàngōngsī。|83|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891729.wav|Теперь я предоставляю слово представителю Шри-Ланки.|34|4
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239819.wav|Une fois la Mini repartie, les deux vieux respirèrent un bon coup.|73|0
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706369.wav|Ich vertrag Paprika schon, aber ich krieg sie einfach nicht runter.|35|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240325.wav|Affaire d'intérieur. ça te regarde.|73|0
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18849213.wav|rènshìdá shì āmǔsītèdān zhèngquàn jiāoyìsuǒ de shàngshìgōngsī zhīyī。|42|3
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085042.wav|Mais la question est aussi éminemment politique, Madame la rapporteure l'a dit.|49|0
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706459.wav|Der Oberbürgermeister hat den Notstand ausgerufen und eine Ausgangssperre verhängt.|35|1
+dataset/clean_comvoi/nl/wavs/07/common_voice_nl_17705745.wav|Nooit oorlog zonder wapens is een ezelsbruggetje om de vier windstreken te onthouden.|81|2
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18204910.wav|Ich bitte Sie, das ist doch lächerlich!|72|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882236.wav|Китай с глубокой тревогой следит за таким развитием событий.|34|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708668.wav|Met een virtualrealitybril kan je in een virtualrealityomgeving avonturen beleven.|19|2
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18243103.wav|Die Würfel sind gefallen.|30|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862918.wav|In dat kanaal is ooit een meisje verdronken.|19|2
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17712646.wav|Wodka is vermoedelijk ontstaan in Polen en wordt gemaakt op basis van aardappelen.|19|2
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327087.wav|Und dazu ein belegtes Brot mit Schinken.|77|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576653.wav|Il voulait toujours avoir la machine la plus puissante.|79|0
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18650635.wav|tiānjǐng zhá yízhǐ， wèiyú shāndōngshěng jìníngshì shìzhōngqū yuèhé jiēdào。|54|3
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267217.wav|Denemarken is net iets groter dan Nederland.|28|2
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088722.wav|Pour les médicaments classiques, on trouve les mentions substituable ou non substituable .|12|0
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18103534.wav|trente et un rue Jules Digeon, quatre-vingts, cent soixante-dix à Rosières-en-Santerre|12|0
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143616.wav|Je viendrai d'abord prendre le thé.|50|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888237.wav|Насилие по-прежнему остается одним из основных факторов, влияющих на жизнь афганцев.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888127.wav|Господин Председатель, алжирская делегация хотела бы поздравить Вас с успешным выполнением Вашей миссии.|34|4
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778735.wav|Voir son compte à la banque."" À Lorin.|68|0
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18433260.wav|Peer wünscht sich zum Geburtstag eine neue Grafikkarte.|18|1
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18725327.wav|Ohne das Gleichgewichtsorgan im Ohr wäre zweibeiniges Gehen kaum denkbar.|35|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239762.wav|Eh bien, moi non plus!|73|0
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863702.wav|Als Folge der Urbanisierung mangelt es an bezahlbarem Wohnraum in Großstädten.|31|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931314.wav|В этой связи приняты соответствующие меры.|7|4
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239738.wav|Ah! c'est un peu fort.|73|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860841.wav|Ein alter Hase wie Horst macht das mit links.|58|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143850.wav|Un silence glacé montait de la ville au faite du Châtelet.|50|0
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18847187.wav|Wer schon traumatisiert ist, hat eine niedrigere Schwelle für weitere Traumatisierungen.|31|1
+dataset/clean_comvoi/nl/wavs/12/common_voice_nl_17700352.wav|Tweelingen en drielingen komen niet vaak voor.|33|2
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229628.wav|Vermutlich ist die Zylinderkopfdichtung undicht.|48|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923050.wav|Но не успели девчонки вынырнуть, как вслед за ними бултыхнулся кто-то четвертый.|7|4
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920901.wav|Эта Конференция пройдет на следующей неделе в Душанбе.|43|4
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778418.wav|Donne-moi à boire, veux-tu?|68|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18423417.wav|Kann man auf dem Feldberg schon Ski fahren?|52|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862741.wav|Sehr zuvorkommend, Frau Zabel!|58|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576364.wav|Les hurluberlues s'étendaient sur des résidus en geignant tout bêtement.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888020.wav|Это, в действительности, необходимое условие для обеспечения успешной многосторонней работы.|34|4
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18240574.wav|Wenn mein Opa die Wände streicht, stellt er immer sein altes Radio auf und hört NDR neunzig Komma drei.|30|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520963.wav|Wieso seid ihr alle so sensationsgeil?, fragte Fiona vorwurfsvoll.|37|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326800.wav|Krabben werden noch auf dem Kutter gekocht.|77|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653032.wav|Petit à petit.|47|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778386.wav|Nasie, lui dit Delphine en la serrant, ma petite Nasie, oublions tout.|68|0
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18849059.wav|lóngqìng èrnián， dēngjìnshì dìsān jiǎ dìyībǎibā shíèrmíng。|42|3
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931437.wav|На корм для животных действует скидка в двадцать процентов.|7|4
+dataset/clean_comvoi/fr/wavs/02/common_voice_fr_18814355.wav|Par humanité, dit Ottavio.|71|0
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861649.wav|Rue Docteur Roger Fesneau au numéro quatorze|56|0
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493638.wav|Elles ont de ces raisonnements!|75|0
+dataset/clean_comvoi/de/wavs/43/common_voice_de_18432727.wav|Eine Beziehung ist ein Geben und Nehmen.|63|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931500.wav|Вы хотели бы зарегистрироваться?|7|4
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18096613.wav|sept chemin Olivetto|12|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18888996.wav|Leute übers Ohr zu hauen, gehört praktisch zu seinem Job.|58|1
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229646.wav|Habe ich richtig gehört?|48|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602469.wav|Danse, on verra bien.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881993.wav|Во-первых, мы высоко оцениваем работу, проделанную Вами, господин Председатель.|34|4
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366313.wav|Manama ist die Hauptstadt von Bahrain.|40|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686490.wav|Stattdessen soll ein eigener Streaming-Dienst aufgebaut werden.|0|1
+dataset/clean_comvoi/fr/wavs/26/common_voice_fr_18408559.wav|Il est aimé.|4|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875575.wav|Спят и его товарищи: веселый Симаков, молчаливый Ладыгин, смешной Коля.|51|4
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646375.wav|Het is de P van Peugeot of Porsche.|45|2
+dataset/clean_comvoi/de/wavs/33/common_voice_de_18360418.wav|Die chinesische Stadt Shenzhen gilt als "Werkbank der Welt".|74|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18596943.wav|Remus Lupin war der erste Erwachsene, den ich bewundert habe.|36|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896970.wav|Теперь позвольте мне перейти к гуманитарной ситуации.|34|4
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520794.wav|Die S-Bahn wartet nicht auf uns.|37|1
+dataset/clean_comvoi/de/wavs/46/common_voice_de_18215292.wav|Frau Rahn spricht von einem Geniestreich.|46|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18391601.wav|Es gibt eine Unmenge an möglichen Anordnungen eines Schachbretts.|36|1
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205828.wav|Wenn auf Bilderkennung trainierte neuronale Netze träumen, erzeugen sie kunstvolle Bilder.|72|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931374.wav|Лево руля на борт! громко скомандовала Женя и крепче налегла на тяжелое колесо.|7|4
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18652973.wav|Presque en même temps, l'oreille d'Omer fut rudement pincée.|47|0
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18779421.wav|shìzhèng yìhùi yìyuán shì yī zhèngdǎng míngdān bǐlì dàibiǎozhì xuǎnjǔ chǎnshēng。|83|3
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212411.wav|Dann bleibt nur noch die direkte Konfrontation.|11|1
+dataset/clean_comvoi/de/wavs/32/common_voice_de_18634052.wav|Wie lang liegt dein letzter Erste-Hilfe-Kurs zurück?|26|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18103345.wav|Allée de Sensacq, soixante-quatre mille deux cent trente Aussevielle|12|0
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267236.wav|De geest lachte op een vreemde manier.|28|2
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653216.wav|Mais ça faisait un moment que je cherchais.|47|0
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493644.wav|Je ne crois pas qu'elles viendront.|75|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923109.wav|Они поздоровались.|7|4
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771303.wav|Auch Teppichfußboden dämpft den Schall.|61|1
+dataset/clean_comvoi/nl/wavs/09/common_voice_nl_17700517.wav|Herfst is het enige woord in het Nederlands dat eindigt op vier medeklinkers.|23|2
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686018.wav|Der ist sauber.|0|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653082.wav|Il avait tout de même décidé de rentrer chez lui ce soir.|47|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888066.wav|Благодарю делегата Аргентины.|34|4
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18561285.wav|Ein Klavier hat schwarze und weiße Tasten.|5|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653183.wav|La mafia voyait des boeufs en déprimant!|47|0
+dataset/clean_comvoi/nl/wavs/09/common_voice_nl_17699885.wav|Ali Baba en de veertig rovers is een bekend sprookje.|23|2
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686019.wav|Das Namensschild auf dem Kittel ist immer noch nicht ausgetauscht.|0|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573264.wav|Plus il tentait de surveiller ses arrières, plus il se persuadait être suivi.|79|0
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088725.wav|Allons, assez! vous raisonnez toujours.|12|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888385.wav|Вскоре мы сделаем еще один взнос.|34|4
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088597.wav|Sous réserve de ces précisions, le Gouvernement maintient son amendement.|12|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573300.wav|À Dubai, les paíens grimpent sur des raisons.|79|0
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892673.wav|Концы в воду всегда работает.|53|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603209.wav|Ils vendaient de beaux assortiments.|79|0
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18224376.wav|Zu Fuß ist man von Gera bis Fürth lange unterwegs|80|1
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18650639.wav|wǒ nv̌yǒu zǒulù shàngxiàn shì liǎng xiǎoshí|54|3
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689507.wav|Mal sehen, was der morgige Tag bringt.|22|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888314.wav|Решения, принятые на этой Конференции, включают важные меры, которые ожидают реализации.|34|4
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18266587.wav|Zora musterte den Schaffner.|30|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915862.wav|Спасение утопающих может вскоре стать делом роботов.|7|4
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390665.wav|Baku ist die Hauptstadt von Aserbaidschan.|16|1
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493631.wav|La pièce était surchargée de papiers, disposés en désordre sur le bureau|75|0
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326718.wav|Das könnte ich auch.|77|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891697.wav|Я так спросил.|34|4
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18646940.wav|zìcǐ kāishǐ zhōng miǎn biānjiè shǐ jiànyú guójì zhāngyuē。|54|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888471.wav|Франция, наряду со многими другими государствами, представленными в этом зале, понесла человеческие жертвы.|34|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861638.wav|Les Trois Femmes, poussant un cri en l'apercevant.|56|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603306.wav|Ces fautes d'orthographe sont vraiment énervantes.|79|0
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920720.wav|Тимирязевская академия находилась далеко, за городом фактически.|43|4
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532774.wav|Setze Löskaffee auf die Einkaufsliste!|69|1
+dataset/clean_comvoi/fr/wavs/01/common_voice_fr_17810192.wav|Ils ne seraient pas venus?|67|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686260.wav|Außerdem möchte ich alle Autoren bitten, wenigstens eine automatische Rechtschreibprüfung zu benutzen.|0|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17723109.wav|Het was een grapje hoor.|19|2
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18868908.wav|Сейчас я предоставляю слово господину Ларо - представителю Нигерии.|3|4
+dataset/clean_comvoi/de/wavs/04/common_voice_de_18372850.wav|Beim Beschleunigen kommt blauer Rauch aus dem Auspuff.|29|1
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689457.wav|Ach du grüne Neune!|22|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887890.wav|И над крышею этого сарая развевался маленький красный флаг.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573218.wav|La magnanerie, c'est l'art d'élever des vers à soie.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891463.wav|В рамках двустороннего договора с Монголией Россия обязалась уважать ее безъядерный статус.|34|4
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717292.wav|Vielleicht ist keine Antwort.|55|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882234.wav|Демократия в стране крепнет, несмотря на все трудности.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891557.wav|Я вас прошу, вы ко мне не приближайтесь.|34|4
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143516.wav|Il tutoyait tout le monde.|50|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18240570.wav|Eigentum verpflichtet.|30|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888167.wav|Они не сопротивлялись.|34|4
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18863916.wav|Lui, le pauvre homme, me faisait pitié, à claquer des dents.|57|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18878591.wav|Под девизом: Курение против расизма.|34|4
+dataset/clean_comvoi/fr/wavs/10/common_voice_fr_18868650.wav|huit rue Augustin Henry, soixante-seize mille cinq cents Elbeuf|64|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520879.wav|Genau!|37|1
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778607.wav|Rue de Libernon, Crécy-la-Chapelle|68|0
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706414.wav|Ruf schnell die Polizei!|35|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088814.wav|Choucroute nouvelle, soixante-quinze cent, le kil. vingt-deux, rue Victor-Hugo, Hellemmes.|12|0
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085041.wav|Allée de Courchet au numéro quatorze|49|0
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18649075.wav|Ik snap er geen sikkepit van.|45|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877303.wav|Застой на Конференции нельзя отнести на счет одних лишь процедурных аспектов.|34|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17723099.wav|De norm is om elke week een nieuw recept op het menu te zetten.|19|2
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771403.wav|Nikolaus möchte nach der Schule eine Ausbildung zum Tischler beginnen.|61|1
+dataset/clean_comvoi/fr/wavs/13/common_voice_fr_18171807.wav|Cité du Rance, Mende|1|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881961.wav|Один из вариантов - отправить на помощь дрон-катамаран.|34|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863385.wav|Mais ça y est, c'est fini!|56|0
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771458.wav|Trägst du mich das letzte Stück?|61|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520745.wav|Jemand hat mir mein Portmonee geklaut.|37|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862777.wav|Das hätte ich beinahe vergessen.|58|1
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706415.wav|Das Geschehen auf dem Handy-Display ist ungleich wichtiger.|35|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888384.wav|Сам Катар становится все более активным участником событий на международной арене.|34|4
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18641841.wav|Um den Webserver zu entlasten, sollte man einen Download per BitTorrent erwägen.|39|1
+dataset/clean_comvoi/de/wavs/31/common_voice_de_18357983.wav|Lima ist die Hauptstadt von Peru.|44|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891636.wav|Он и колючий и острый.|34|4
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735831.wav|Haar vader is meubelmaker en hij is net van baan veranderd.|27|2
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776154.wav|lǐxuélǐ， zìzǐlì， zhílì fèngyáng fǔ yǐng zhōu rén， mínjí， míngzhāo zhèngzhì rénwù， jìnshì chūshēn。|83|3
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18646956.wav|chényùdé， hénán zhènpíng rén， zhōngguó dàlù nányǎnyuán。|54|3
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646404.wav|Je moet de fles sinaasappelsap eerst even schudden.|45|2
+dataset/clean_comvoi/fr/wavs/02/common_voice_fr_18814372.wav|Vous raillez, monsieur|71|0
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229627.wav|Dann rumpelte es im Innern und es gab einen Ruck.|48|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18878484.wav|Вот и врешь! рассердился старик.|34|4
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085061.wav|Ne sois pas inquiète, je vais sortir.|49|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18429915.wav|Siehst du den kleinen Chip auf meiner Chipkarte?|52|1
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493733.wav|Un aller ou un voyage aller-retour?|75|0
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18873796.wav|un allée du Moulin de Saint-Paul, quarante-deux mille quatre cent quatre-vingts La Fouillouse|6|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916141.wav|Кроме того, между Востоком и Западом было в общем меньше торговли.|7|4
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520650.wav|Darf ich dich mal in den Arm nehmen?|37|1
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735882.wav|Vandaar dat we een dag eerder naar huis zijn gegaan.|27|2
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861640.wav|Il y a aussi beaucoup de criminels en col blanc.|56|0
+dataset/clean_comvoi/de/wavs/47/common_voice_de_18529166.wav|Vielleicht ist es eine Lungenentzündung.|17|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911881.wav|Да, это было сделано, как получается у тугодумов, с большим опозданием и неадекватно.|34|4
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493719.wav|Il y a trois mois.|75|0
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390668.wav|Helsinki ist die Hauptstadt von Finnland.|16|1
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205663.wav|Ach du Schreck!|72|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17712714.wav|We werken van maandag tot vrijdag, maar op zaterdag en zondag hebben we weekend.|19|2
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17845106.wav|Je viens lui faire la barbe, à ta nourrice.|10|0
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428636.wav|Deux maisons blanches.|9|0
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18434288.wav|Arrête! Tu vas tout casser!|6|0
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18433118.wav|Hey Schatz, das Klopapier ist alle.|18|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18653412.wav|Optische Audiodatenträger werden von innen nach außen gelesen.|36|1
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874313.wav|Ein Zementlaster biegt in die Baustelle ein.|14|1
+dataset/clean_comvoi/de/wavs/32/common_voice_de_18634337.wav|Wieso hält man Schotten eigentlich für geizig?|26|1
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689496.wav|Ich konnte es einfach nicht tun.|22|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18864114.wav|Siehst du nicht, dass ich beschäftigt bin?|31|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18886951.wav|В основном, эти Всесоюзные выставки, которые мы ждали с нетерпением.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916059.wav|В-четвертых, мы должны оставаться приверженными существующим многосторонним разоруженческим механизмам.|7|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576536.wav|Une huée mal contenue répondit à cet exorde.|79|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778725.wav|Qui est cette jeune fille?|68|0
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920776.wav|Свист в саду услыхали.|43|4
+dataset/clean_comvoi/de/wavs/29/common_voice_de_18509586.wav|Wie sind die Temperaturen gerade in Rostock?|59|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326768.wav|Im Inserat wird deutlich darauf hingewiesen, dass es keine Zweck-WG werden soll.|77|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213203.wav|Falls Sie ihr Fahrzeug verkaufen wollen, rufen Sie mich bitte an.|11|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888310.wav|Первый уровень получается сложный, надо сделать попроще.|34|4
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366248.wav|Ich hätte niemals gedacht, dass dies passieren würde.|40|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931339.wav|Приоритетом международного сообщества, равно как и Италии, является ядерное разоружение.|7|4
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18364621.wav|Port Louis ist die Hauptstadt von Mauritius.|70|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696346.wav|Tot driemaal toe had hij aangebeld.|20|2
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18816773.wav|Hallöchen!|31|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863655.wav|Oldenburg gibt es sowohl in Holstein, als auch in Niedersachsen.|31|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088590.wav|deux cent trente-huit rue des Gaberts, trente-huit, sept cent soixante, Varces-Allières-et-Risset|12|0
+dataset/clean_comvoi/de/wavs/26/common_voice_de_18703405.wav|Die Elektroden am Kopf messen die Hirnströme.|15|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603428.wav|La confiance dans son amitié, dans celle de son cousin, et du capitaine Lyrisse.|79|0
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366192.wav|Die Inspektion wurde regelmäßig durchgeführt.|40|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915252.wav|Партнеры также занимаются устранением глубинных причин нестабильности.|7|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861512.wav|Non, merci, je prends médecine à deux heures.|56|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603161.wav|Des parisiens loquaces s'étendent sur la punition démontable sans foncer à Tombouctou.|79|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18886096.wav|Sie sprachen stundenlang über Gott und die Welt.|58|1
+dataset/clean_comvoi/de/wavs/47/common_voice_de_18529042.wav|"Ich wünsche mir einen Roboter, der Unkraut rupft", stöhnt der Gärtner.|17|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875886.wav|Успешные многосторонние соглашения требуют компромиссов и консенсуса.|51|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861690.wav|Son début fut l'assassinat du chef des protestants.|56|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875256.wav|И эти усилия будут продолжаться.|51|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18932791.wav|И мы обращаемся к Организации Объединенных Наций с призывом спасти Ливию.|7|4
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439350.wav|Im überkritischen Zustand sind Fluide irgendwie gleichzeitig flüssig und gasförmig.|36|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696864.wav|Papier is zeer licht ontvlambaar.|20|2
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18246172.wav|Hast du eine Ahnung, wie billig Zahnpasta ist?|48|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143694.wav|Prenant la carafe qui est sur le plateau et se versant à boire.|50|0
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646314.wav|Kan je het eens opzoeken op Wikipedia?|45|2
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18596946.wav|Cornelia, kann es sein, dass du in einen Hundehaufen getreten bist?|36|1
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920853.wav|Здесь люди поют. музыка.|43|4
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860948.wav|Die ganzen Details sind Ömer völlig wumpe.|58|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686261.wav|Das Eiweiß darf nicht mit dem Eidotter vermischt werden!|0|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602352.wav|Mais il s'agit d'une décision d'importance.|79|0
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861685.wav|La parole est à Monsieur le ministre, pour soutenir l'amendement numéro trente-sept.|56|0
+dataset/clean_comvoi/fr/wavs/15/common_voice_fr_17747548.wav|Il vous fallait un marquis, un prince!|25|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862807.wav|Auch im Bereich der Erwachsenenbildung ist noch Luft nach oben.|58|1
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493738.wav|Il n'avait pas senti la situation se dégrader.|75|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931792.wav|От этого в значительной степени будет зависеть легитимность всех этих усилий.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888276.wav|В конечном итоге все претенденты сочли внутрипартийные выборы свободными, справедливыми и приемлемыми.|34|4
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205864.wav|Der Friedhofsweg wurde jetzt umbenannt nach irgendeinem toten Politiker.|72|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862943.wav|De soldaten in de loopgraven waren vaak kanonnenvoer.|19|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887843.wav|В последние четыре недели Индии выпала привилегия вести председательство на Конференции по разоружению.|34|4
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875629.wav|Это, безусловно, будет касаться и процессов демократизации на Ближнем Востоке.|51|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862898.wav|Een aangename kennismaking.|19|2
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240422.wav|Et sa grand'mère la regardait, émue malgré elle par cet entier, par ce profond désespoir.|73|0
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735927.wav|De wegversmalling zorgde voor een grote opstopping in het verkeer.|27|2
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778597.wav|Pour respecter cette disposition, les documents administratifs communicables occultent les données personnelles.|68|0
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18877882.wav|Demnach handelt es sich um Antilopen.|14|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696811.wav|Waar rook is, is vuur|20|2
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213399.wav|Es ziehen dunkle Wolken auf.|11|1
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197093.wav|cinq rue du Pousadou, zéro neuf, trois cent cinquante à Campagne-sur-Arize|24|0
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18659969.wav|xiàoxùn zhōng， yǒng， qín， qiān， yán， shí， gāng， qiáng|54|3
+dataset/clean_comvoi/de/wavs/31/common_voice_de_18357991.wav|Hierzu trägt man einen Ganzkörperanzug, in den viele Elektroden eingenäht sind.|44|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860895.wav|Das muss heute noch zurück in die Bücherei.|58|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18653379.wav|Entweder Fenster auf oder Heizung an, aber nicht beides gleichzeitig!|36|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881825.wav|Многое будет зависеть, разумеется, и от исхода работы группы правительственных экспертов.|34|4
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862781.wav|Nach fünf Jahren Studium bekam David nur eine befristete Stelle.|58|1
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493648.wav|COLLABORATEUR: Monsieur MARC-MICHEL PERSONNAGES Acteurs qui ont créé les rôles.|75|0
+dataset/clean_comvoi/de/wavs/29/common_voice_de_18509600.wav|Oft wird einfach nur ein Text von der deutschen Presseagentur übernommen.|59|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931329.wav|В заключение позвольте мне кратко изложить предстоящие мероприятия Комиссии по миростроительству.|7|4
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18777884.wav|Des einen Freud ist des anderen Leid.|31|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931302.wav|Я рад сообщить о том, что мы ожидаем заключения этого соглашения в ближайшее время.|7|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861682.wav|Mademoiselle Victorine n'est pas ici?|56|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520699.wav|Alte Liebe rostet nicht.|37|1
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366265.wav|Sofia ist die Hauptstadt von Bulgarien.|40|1
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390636.wav|Tunis ist die Hauptstadt von Tunesien.|16|1
+dataset/clean_comvoi/de/wavs/47/common_voice_de_18529144.wav|Er möchte nicht als Streber dastehen.|17|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861639.wav|La parole est à Monsieur Arnaud Richard, pour soutenir l'amendement numéro mille vingt-quatre.|56|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923064.wav|Я буду краток, потому что главные моменты уже были затронуты в предыдущих выступлениях.|7|4
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17936623.wav|Rue Paul Saniez à Flers|10|0
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689562.wav|Immer dasselbe mit dir.|22|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576167.wav|Garfield est un chat qui peut parler.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887904.wav|Мы разработали очень эффективный план.|34|4
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18864008.wav|Cela avait, sinon choqué, du moins inquiété ces derniers.|57|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875643.wav|Возрожденный интерес к региональному сотрудничеству между странами Магриба также может открыть новые перспективы.|51|4
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892657.wav|Приведу лишь два конкретных примера.|53|4
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875755.wav|Одним словом, она требовала демократии.|51|4
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18238088.wav|Ich habe den Bus verpasst.|60|1
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717415.wav|Ich bin zuversichtlich, dass er das wuppen wird.|55|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520823.wav|Meinst du einen Pferdeschwanz?|37|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881873.wav|Что я еще могу сказать?|34|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861521.wav|Je jetai un regard sur eux.|56|0
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653189.wav|Allez à vos pains de sucre, je vous prie.|47|0
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18779242.wav|mǔ zhàoshì; jìmǔ zhāngshì。|83|3
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576646.wav|Vous supportiez un cadavre secret avec des sphères.|79|0
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18204907.wav|Tripolis ist die Hauptstadt von Libyen.|72|1
+dataset/clean_comvoi/nl/wavs/09/common_voice_nl_17699883.wav|Zalig kerstfeest en een gelukkig Nieuwjaar.|23|2
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778745.wav|Je suis sûr que j'aimai.|68|0
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861616.wav|Rue des Glaçis, vingt mille Ajaccio|56|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18430036.wav|Der Sandkasten steht neben der Terrasse und wächst zu.|52|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653144.wav|Comme quoi, quand une idée est bonne, elle l'est jusqu’au bout.|47|0
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874300.wav|Meine Geduld ist langsam am Ende.|14|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326719.wav|Dumm ist, wer etwas weiß, aber trotz des besseren Wissens falsch handelt.|77|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18685671.wav|Ein Angler sollte wissen, wann man seine Angel besser loslässt.|0|1
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778615.wav|Je continuai mon travail.|68|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916145.wav|До Иркутска она была доставлена на специальном самолете.|7|4
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520880.wav|Suche Züge nach Hamburg.|37|1
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493712.wav|Que vous l'accusiez!|75|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931304.wav|Важно обеспечить региональную ответственность.|7|4
+dataset/clean_comvoi/de/wavs/31/common_voice_de_18357970.wav|Manila ist die Hauptstadt der Philippinen.|44|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931614.wav|Был ли ты когда-нибудь на Колыме?|7|4
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18240573.wav|Die Friseurin kam mit einem Pinsel zu Hilfe.|30|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686026.wav|Die Diskussion zu Common Voice auf Deutsch läuft in einer separaten Kategorie ab.|0|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696679.wav|Daarom is het best dat er ook gewerkt wordt met transcripties van gebruikte data.|20|2
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653156.wav|Approuva le gnome barbu, qui détirait le fond de son ample pantalon rayé.|47|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18208527.wav|Herr Stolpe ist ein guter Musiklehrer.|30|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877313.wav|Эта фраза описывает взаимоотношения между разными органами.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602491.wav|Que fais-tu de beau?|79|0
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327111.wav|Die Beleuchtung ist mir zu grell.|77|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576188.wav|Deux petites oreilles.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907402.wav|Нам нужна уникальная особенность продукта.|34|4
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18654393.wav|Warum nur werktags?|38|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911715.wav|Все это происходит сейчас в рамках арабской весны.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603177.wav|Mais Charlène, tu sais que tu reviens quand tu veux!|79|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18429220.wav|Ich meine natürlich, ich muss zur Arbeit!|52|1
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197296.wav|Ruelle Ferté, soixante et un mille quatre cents Mortagne-au-Perche|24|0
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366149.wav|Bogota ist die Hauptstadt von Kolumbien.|40|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907368.wav|Как ответственный участник переговоров группа продемонстрировала гибкость и готовность к компромиссу.|34|4
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653135.wav|Comment faites-vous pour avoir de si beaux oignons?|47|0
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390620.wav|Ich fürchte, hier ist eine komplette Neulackierung notwendig.|16|1
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906350.wav|Kan je het eens opzoeken op Wikipedia?|66|2
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18649099.wav|Vanaf welke leeftijd had je die rimpels?|45|2
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143758.wav|Nous avons droit de prendre intérêt aux catastrophes de notre temps.|50|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881942.wav|Здесь, в Совете Безопасности, нашего особого внимания сегодня требуют три ситуации.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576190.wav|Il sauta prestement du cabriolet.|79|0
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18853517.wav|Пыльной ладонью Женя вытерла лоб, и вдруг на стене задребезжал звонок телефона.|3|4
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18368797.wav|In dem ehemaligen Gasometer finden heute regelmäßig Ausstellungen statt.|18|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863632.wav|Unterschiedliche Schreibweisen verlangen unterschiedliche Aussprache.|31|1
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18863745.wav|Cela aurait pu être mal pris, comme une sorte d'injure|57|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915025.wav|Нет, не улетай так далеко. как твой папа.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887784.wav|Их нельзя перечеркнуть одним росчерком пера.|34|4
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18240552.wav|Von all dem Gequassel hatte Tamara Kopfschmerzen bekommen.|30|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877396.wav|Слова просила делегация Соединенного Королевства.|34|4
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366121.wav|Hält dieser Zug auch am Hauptbahnhof?|40|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862771.wav|Derlei Konflikte werden meistens auf dem Rücken der Schwächsten ausgetragen.|58|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18888970.wav|Früher gab es einen Blasebalg, der mit Muskelkraft bedient werden musste.|58|1
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778412.wav|J'ai en effet entendu prononcer ce mot-là.|68|0
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861637.wav|deux TER avenue du Pavillon de Sully, soixante-dix-huit mille deux cent trente Le Pecq|56|0
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18653471.wav|Ein tiefer Schmerz durchbohrte ihre Brust.|36|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887773.wav|Ответить на этот вопрос могут участники арабской весны.|34|4
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881271.wav|В ответ на это я хотел бы сказать следующее.|51|4
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532804.wav|Seine ganze Sippschaft trägt Zipfelmütze.|69|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326602.wav|Es ist eine Lithium-Knopfzelle mit drei Volt.|77|1
+dataset/clean_comvoi/fr/wavs/15/common_voice_fr_17747523.wav|Vous savez d'où ils viennent? m'a-t-il dit.|25|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708613.wav|Er was bijna geen volk in het pretpark dus mochten we tweemaal na elkaar de rit doen.|19|2
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920677.wav|Может, впрочем, она и всегда такая.|43|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907256.wav|И в этом заключается урок для всех нас.|34|4
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240104.wav|Il est venu ici.|73|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521050.wav|Der Drache rülpste und ließ dabei gelbe Schwefelwolken aus seinem Maul entweichen.|37|1
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18358180.wav|Rügen ist die größte Insel Deutschlands.|70|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875394.wav|Легко помахивая сорванной веткой, Тимур шел Квакину наперерез.|51|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17712685.wav|Sleep me nou niet mee in je persoonlijke problemen.|19|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887978.wav|На этом я завершаю свое выступление.|34|4
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493731.wav|Je préfère voir mes enfants morts.|75|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881854.wav|С инструментами, дорогой, сюда не пропускаем.|34|4
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390650.wav|Nach acht Wochen war das Projekt abgeschlossen.|16|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18278427.wav|Il était insensé de lui montrer le catholicisme par son aspect le plus choquant.|73|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576823.wav|Elle couronne de roses et de lis mes vieilles années.|79|0
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735973.wav|De databases hadden elk een eigen back-up.|27|2
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18243114.wav|Sie hat ihr Versprechen gebrochen.|30|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520779.wav|War ich etwa zu schnell Herr Wachtmeister?|37|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862805.wav|Deshalb ist die Idee super, es als Deko auf den Teller zu legen.|58|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088594.wav|Vous êtes prêt?|12|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18663458.wav|Muss man das verstehen?|38|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863409.wav|Trente-quatre femmes vertes.|56|0
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776254.wav|zhīhòu hé qīzǐ xièmǎnmèi tóngwèi dōng wángfǔ chéngxuānguān。|83|3
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603203.wav|Et quels vils subterfuges politiques!|79|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915841.wav|На два года мы уезжали во время войны в эвакуацию в Уфу.|7|4
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696343.wav|Je moet een tol betalen als je wilt passeren door de Bosporus.|20|2
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646463.wav|Zal ik die afspraak even verzetten?|45|2
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576202.wav|Ils conçurent encore l'éternité de leur voeu.|79|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931747.wav|Эти чиновники занимаются сбытом оружия и одновременно выступают посредниками на мирных переговорах.|7|4
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18888971.wav|Also werden die Pläne eingestampft.|58|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327307.wav|Heutzutage lassen sich beide Brücken kostenlos überqueren.|77|1
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892578.wav|На своём МП-три-плеере Лариса в основном слушает эпическую музыку из фильмов.|53|4
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366259.wav|Lissabon ist die Hauptstadt von Portugal.|40|1
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18433193.wav|Dies ist ein Test.|18|1
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18433161.wav|Letzte Nacht musste die freiwillige Feuerwehr fünfmal ausrücken.|18|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603287.wav|Ils morflent.|79|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18685687.wav|Emotionale Vernachlässigung im Kindesalter kann genauso traumatische Folgen wie andere Misshandlungen haben.|0|1
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778644.wav|Route du Caloy, quarante, zéro quatre-vingt-dix Lucbardez-et-Bargues|68|0
+dataset/clean_comvoi/de/wavs/46/common_voice_de_18215345.wav|In einer Tageszeitung blätternd sitzt Siegfried auf einer Parkbank.|46|1
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18672725.wav|Écrire sans raison, c'est comme rire hors saison.|6|0
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18591578.wav|Langsam aber sicher verstummen auch die letzten Zweifler.|5|1
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18357785.wav|Protonen und Neutronen besitzen eine neutrale Farbladung.|70|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088617.wav|S'il pêchait.|12|0
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18652989.wav|Mange tes légumes!|47|0
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776159.wav|shén wénwáng tīngguò yùyán hòu shuō zǐ zhī yùyán chéngyǒu shēnzhì， bìng biǎoshì yìngcǐ zuòwèi jīnhòu wángzhě de jièjiàn。|83|3
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18648462.wav|Il y a aussi eu les mines de charbon.|6|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877348.wav|Молодые люди - и особенно женщины - снова в числе первых.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576603.wav|Leurs boucles volèrent sur leurs cols de velours.|79|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602490.wav|Ni l'oncle Edme ni le major n'avaient leurs costumes militaires.|79|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521003.wav|Dörte ist die Treppe heruntergefallen.|37|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18930903.wav|Мы планируем продолжить работу в этом направлении.|34|4
+dataset/clean_comvoi/de/wavs/25/common_voice_de_18629579.wav|Sobald der Stift gezogen ist, muss man die Granate wegwerfen.|13|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18589786.wav|Woher kommt die Unwucht?|36|1
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233535.wav|Was haben wir unterm Strich?|60|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18170878.wav|Il est ingénieur?|12|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602414.wav|Il faut convertir par les moyens que l'Église emploie.|79|0
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143434.wav|L'adoption du présent amendement permettrait de remédier aux difficultés que rencontrent ces structures.|50|0
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18853495.wav|Пятьдесят семь миллиардов тридцать восемь миллионов триста двадцать три тысячи пятьсот девяносто один.|3|4
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18643694.wav|Also rollte Karl Becher den Schlauchwagen wieder zum Geräteschuppen.|5|1
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493633.wav|Faudrait quand même trouver un moyen de les défoncer à Matignon.|75|0
+dataset/clean_comvoi/de/wavs/04/common_voice_de_18372785.wav|Die A-vierzig durchquert das ganze Ruhrgebiet, von Duisburg bis Dortmund.|29|1
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906329.wav|De keus is aan jou, kies je voor een vakantie in Indonesië of Thailand.|66|2
+dataset/clean_comvoi/zh/wavs/02/common_voice_zh-CN_18594878.wav|wǒmen zhěngjìu tā le!|2|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887842.wav|Стремление сидеть на двух стульях и привело к тому, что мы имеем.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915630.wav|Прибыл дачный поезд.|7|4
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327289.wav|Wir sind hier nicht bei Wünsch-dir-was.|77|1
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18642234.wav|Wichtig ist auch die Unterlage.|39|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860856.wav|Die Hälfte aller Südkoreaner lebt in der Hauptstadt Südkoreas.|58|1
+dataset/clean_comvoi/nl/wavs/10/common_voice_nl_17722714.wav|De keel van de patiënt voelde opgezwollen.|41|2
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915380.wav|И я приветствую приверженность обеспечению полной ответственности за эти события.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891775.wav|Чикаго отмечает Новый год по лунному календарю.|34|4
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084936.wav|douze rue René Vauthier, quatre-vingt-douze, deux cent soixante à Fontenay-aux-Roses|49|0
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18450637.wav|Kommt das auch in den gelben Sack?|36|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143614.wav|Sentier des Fleurs Jaunes à Saint-Leu|50|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18932296.wav|Стремление сидеть на двух стульях и привело к тому, что мы имеем.|7|4
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428658.wav|Si vous pêchiez.|9|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696370.wav|De schrijver van dat boek is internationaal bekend.|20|2
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863346.wav|c'est Noel.|56|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18362598.wav|Die Rettungsgasse ermöglicht es Rettungskräften, schnell zum Einsatzort zu gelangen.|38|1
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18641840.wav|Auch das wäre möglich.|39|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696934.wav|Amai, ben je maar de kapper geweest?|20|2
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778603.wav|C'est l’amendement du groupe socialiste qui a été adopté.|68|0
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17848129.wav|Que faire? La mère ne pouvait pas emmener l'enfant sans le prévenir.|10|0
+dataset/clean_comvoi/de/wavs/43/common_voice_de_18473863.wav|Ihre Helligkeit stellt man über die Stromstärke ein.|63|1
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892779.wav|Допустим, там пейзаж у меня образовался.|53|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861614.wav|Hélas! . ni l'un ni l'autre ne ressemblait au sien.|56|0
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493655.wav|J'échappe à tous les ennuis et à tous les bruits fatigants.|75|0
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892727.wav|Ты объясни мне проще.|53|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17723147.wav|Ze zocht nog naar haar bh.|19|2
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696230.wav|In onze badkamer hebben we handzeep van Sunlight staan.|20|2
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906284.wav|Het is de R van Renault of Rolls-Royce.|66|2
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875725.wav|Мы эти законы знаем, понимаем, вот бозон Хиггса предсказали.|51|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708635.wav|Ik heb een nieuwe keuken gekocht op krediet.|19|2
+dataset/clean_comvoi/fr/wavs/22/common_voice_fr_18771245.wav|Quel beau temps pour la procession!|21|0
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18647998.wav|Meine Mama hat sich wieder ein Moped besorgt.|39|1
+dataset/clean_comvoi/de/wavs/48/common_voice_de_18293459.wav|Gerade als Frau muss das eine ziemliche Umstellung sein.|62|1
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18250381.wav|Wir wohnen zwar in Bochum, haben aber ein Ferienhaus im Sauerland, wo wir viele Wochenenden verbringen.|30|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882097.wav|Она повернула штурвальное колесо.|34|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861619.wav|Le mari demande à manger à sa femme|56|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17723149.wav|Ze zijn niet zo handig dus het heeft hen uiteindelijk uren gekost om die IKEA-kast te bouwen.|19|2
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229647.wav|Matthias ist ein Träumer.|48|1
+dataset/clean_comvoi/de/wavs/33/common_voice_de_18360211.wav|Die weiteren Haltestellen sind Essen, Wattenscheid und Bochum.|74|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603266.wav|On m'a fait payer un excédent cabine!|79|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931626.wav|В нем отражены успехи переходного периода с учетом заранее определенных контрольных показателей.|7|4
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18238114.wav|Hast du schon dein Seepferdchen gemacht, Alex?|60|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862729.wav|In der Kälte verkauft der Herr seit zwei Stunden ofenfrische Brezeln.|58|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881987.wav|У вас есть надфиль или наждачная бумага?|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877363.wav|Афганистан достиг впечатляющего прогресса на пути к созданию представительной и устойчивой демократии.|34|4
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706457.wav|Ist Common Voice zusammengebrochen?|35|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240229.wav|Est-ce que vous avez remarqué, madame Bichu?|73|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696034.wav|Na de kortsluiting viel het licht uit.|20|2
+dataset/clean_comvoi/de/wavs/23/common_voice_de_18389081.wav|Ich habe den BMW nur geleast, der VW gehört mir aber.|78|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888140.wav|Завтра Даша вернется из своего лыжного отпуска в Зёльдене.|34|4
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18278356.wav|C'est une façon de penser à laquelle nous nous opposons radicalement.|73|0
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874500.wav|Der Testsieger kann noch mit etwas anderem aufwarten.|14|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18847085.wav|Im Bett ging ihr alles noch mal durch den Kopf.|31|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088636.wav|Rue Paul Marion, soixante-seize mille six cents Le Havre|12|0
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197286.wav|Un sabre lardait de petites épaules.|24|0
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18849185.wav|shīmènglóng， zìbóyǔ， zhílì cháng zhōufǔ wúxíxiàn rén， mínjí， míngzhāo zhèngzhì rénwù， jìnshì chūshēn。|42|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888367.wav|Но время для размышлений уже прошло, и надо приступать прямо к сути дела.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602553.wav|Les chevaux des officiers!|79|0
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18864012.wav|Cette jeune fille l'aime|57|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603409.wav|Elle criait des mots rauques.|79|0
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267213.wav|Door de begrenzing van zijn brommer kon hij slechts vijftig kilometer per uur rijden.|28|2
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18782171.wav|Wadenwickel sind eine alte aber immer noch effektive Methode.|31|1
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771328.wav|Sie hat Hoffnung auf Änderung der Verträge.|61|1
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18661319.wav|Die Flugzeit beträgt circa sechs Stunden.|5|1
+dataset/clean_comvoi/fr/wavs/05/common_voice_fr_18444374.wav|Ça ne se marie pas bien avec l'éducation morale que nous avons reçue.|32|0
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428617.wav|Plus vite! On t'attend depuis dix minutes!|9|0
+dataset/clean_comvoi/fr/wavs/05/common_voice_fr_18279391.wav|Excusez-moi, je n'ai pas de crayon.|32|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603386.wav|Les soldats tiraient la baguette pour recharger.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18878476.wav|Это было на моих глазах.|34|4
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18775928.wav|wànlì bānián， dēngjìnshì dìsān jiǎ dìyībǎi yīshíbāmíng。|83|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888113.wav|Сейчас я предоставляю слово господину Пэскоу.|34|4
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18434300.wav|Elle disposerait des signaux audiovisuels|6|0
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18589816.wav|Einmal hat uns eine alte Frau dafür gelobt, dass wir das Essen retten.|36|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862961.wav|Nu is het achttien uur dertig.|19|2
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915209.wav|За последний год Россия заметно улучшила позиции в индексе самых инновационных стран мира.|7|4
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696420.wav|Ik heb een paar klapstoelen gekocht in de solden voor op het terras.|20|2
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084855.wav|Il boit trop d'eau avant d’aller dormir.|49|0
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229634.wav|Des Anstandes wegen zwängt sie sich wieder in das Korsett der gesellschaftlichen Erwartungen.|48|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240045.wav|Asseyez-vous, Florentin Loriot, et donnez-nous de fraíches nouvelles de la Providence.|73|0
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906221.wav|Meen je nu serieus dat ze hem al die tijd in het ongewisse hebben gelaten?|66|2
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931356.wav|Слово имеет представитель Финляндии.|7|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17872472.wav|Pourquoi caches-tu ce que tu écrivais?|56|0
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428620.wav|Elle achète du pain frais tous les matins.|9|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778630.wav|Il s'agit du rapport dont parlait Monsieur le ministre.|68|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875636.wav|Вы можете рассчитывать на нашу поддержку и на любую помощь, которую мы можем оказать.|51|4
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17848135.wav|Les conseils généraux et les ARS travaillent fréquemment ensemble.|10|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573283.wav|A la Haute Vente des carbonari, ils s'étaient appréciés, sans doute.|79|0
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771429.wav|Früher hieß es Tadel, heute heißt es schriftliche Missbilligung.|61|1
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366152.wav|Zum Glück ist die Stadt jedoch nicht von Tourismus allein abhängig.|40|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602623.wav|Il reste le musée de la mine.|79|0
+dataset/clean_comvoi/fr/wavs/10/common_voice_fr_18868653.wav|L'école lui plait?|64|0
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18864219.wav|Es riecht nach Sonnencreme.|31|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17723112.wav|Hij heeft zich flink verbrand in de zon.|19|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881906.wav|И в этом барахле мы должны увидеть скульптуру?|34|4
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17848142.wav|Je voudrais rappeler deux faits.|10|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686400.wav|Der Mann verfügt über eine Beobachtungsgabe wie kein zweiter.|0|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861574.wav|Ce sont des médailles romaines . objet d'art.|56|0
+dataset/clean_comvoi/fr/wavs/05/common_voice_fr_18444420.wav|Le coq chante tous les matins.|32|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_18133190.wav|Ze kon nog net de middenberm ontwijken.|19|2
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18652919.wav|Le coin d'une maison bruyante, en fête, fut tourné.|47|0
+dataset/clean_comvoi/fr/wavs/01/common_voice_fr_17810166.wav|Et tu n'as pas d’autre opinion?|67|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882122.wav|Много ль за часы-то, Алена Ивановна?|34|4
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18247390.wav|Vom Wind wird die Brücke zum Schwingen angeregt.|30|1
+dataset/clean_comvoi/fr/wavs/22/common_voice_fr_18771296.wav|Est-on bien nourri?|21|0
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18103354.wav|Ne fais donc pas toujours dévier la conversation pour prendre l'offensive!|12|0
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143704.wav|Oh! je ne quitterai jamais Madame!|50|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860949.wav|Schnell hatte Herr Jost gelernt, den Automaten zu überlisten.|58|1
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267233.wav|Je hebt in ieder geval minstens tienduizend uur aan gesproken tekst nodig.|28|2
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233605.wav|Ich würde sagen, an der nächsten Raststätte machen wir mal eine Pause.|60|1
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18736120.wav|Je mag al beginnen met de tomaten in blokjes te snijden.|27|2
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906170.wav|Iedere avond installeer ik mij in onze hoekzetel.|66|2
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653064.wav|Kirk Douglas pariera sur des accidents.|47|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521049.wav|Habt ihr eine Zeckenzange?|37|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915008.wav|Нельзя допустить, чтобы эта проблема затерялась среди других проблем и событий в регионе.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907278.wav|Важно, чтобы такой договор реализовывал принципы транспарентности, необратимости и верификации.|34|4
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18358118.wav|Budapest ist die Hauptstadt von Ungarn.|70|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863927.wav|Eine alte Pantoffel muss als Türstopper herhalten.|31|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891422.wav|И неужели такой ужас мог прийти мне в голову?|34|4
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863527.wav|Geld macht nicht glücklich, aber es beruhigt ungemein.|31|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861688.wav|Et je compris.|56|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602829.wav|Il se résignait, l'âme molle.|79|0
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239917.wav|Je m'appelle John.|73|0
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18644720.wav|Nein zu sagen, erfordert manchmal Mut oder zumindest Selbstbewusstsein.|39|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861229.wav|Inès, la prétendue de votre fils le marquis?|56|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875182.wav|Если же нет, то перспективы могут быть созданы и в другом месте.|51|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896933.wav|Теперь я намерен провести рассмотрение проекта доклада на неформальных заседаниях с устным переводом.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915349.wav|То есть как на трубе?|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887888.wav|И вновь мирные жители платят за нее ужасно дорогой ценой.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931476.wav|Поступил я на философский факультет.|7|4
+dataset/clean_comvoi/de/wavs/26/common_voice_de_18703389.wav|Insgesamt schlägt Annemarie sich ganz wacker.|15|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18897003.wav|Хотел бы задать пару вопросов в связи с нашей дальнейшей работой.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602851.wav|Tu sais qu'on attend toujours ton pot d'arrivée!|79|0
+dataset/clean_comvoi/zh/wavs/01/common_voice_zh-CN_18754546.wav|dúyè shì yīzhǒng yóu dòngwù fēnmì chūlái de dúsù， mùde shì dùi qítā dòngwù zàochéng shānghài。|76|3
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085098.wav|deux rue de Loiselet|49|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18430018.wav|Wer war denn noch alles dabei?|52|1
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874556.wav|Mit der Wumme kann man überhaupt nicht zielen.|14|1
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267268.wav|Wie gaat je verzorgen?|28|2
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776107.wav|tā juédìng líuzài tā jiāxiāng fùjìn。|83|3
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205016.wav|Etwa zehn Prozent.|72|1
+dataset/clean_comvoi/fr/wavs/15/common_voice_fr_17747487.wav|Dût mon destin être pareil au sien, je reprendrais la tâche où il l'avait laissée.|25|0
+dataset/clean_comvoi/de/wavs/33/common_voice_de_18360383.wav|Kohle und Öl haben versteckte Kosten, unter denen Dritte leiden.|74|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931684.wav|Здесь люди поют. музыка.|7|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916016.wav|К нему подошел седой лохматый старик.|7|4
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18103347.wav|Mon cher monsieur de Saint-Gluten, voulez-vous me faire l'honneur.|12|0
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18849036.wav|yóuxì nèi hányǒu duōgè chángjǐng。|42|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888437.wav|Слово имеет представитель Индонезии.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887940.wav|Здесь с ними столкнулся широкоплечий, крепкий мальчуган Гейка.|34|4
+dataset/clean_comvoi/de/wavs/25/common_voice_de_18629596.wav|Auf jeden Fall war der Vortrag aufschlussreich.|13|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18096688.wav|vingt-deux lotissement Miroir Sud, vingt-cinq, trois cent soixante-dix, Les Hôpitaux-Neufs|12|0
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143842.wav|Moi, j'aime.|50|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18429966.wav|Insbesondere dann, wenn man eh kaum zu Hause ist?|52|1
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717815.wav|Nimmt sie überhaupt am Austausch teil?|55|1
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771461.wav|Die größte Sicherheitslücke ist meist der Anwender.|61|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696115.wav|Varkens stammen af van wilde zwijnen, maar zijn gedomesticeerd door onze voorouders.|20|2
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915382.wav|Могу ли я считать, что Генеральная Ассамблея согласна с указанными процедурами?|7|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603366.wav|Papa elle existe la petite souris des dents?|79|0
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771493.wav|Geht das in Ordnung?|61|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18596954.wav|Im Fackelschein sind an der Felswand Teile von Hieroglyphen oder Runen zu erkennen.|36|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916099.wav|Уже поднималось солнце.|7|4
+dataset/clean_comvoi/de/wavs/32/common_voice_de_18634218.wav|Das ist gar nicht so lange her.|26|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686081.wav|Nikolaus möchte nach der Schule eine Ausbildung zum Tischler beginnen.|0|1
+dataset/clean_comvoi/de/wavs/11/common_voice_de_18737626.wav|Ein Machthaber, der vom Krieg profitiert, kann sich kaum als Pazifist bezeichnen.|65|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888203.wav|Мы приступаем к голосованию по этому проекту резолюции.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576314.wav|Serait-ce de vous-même que dépendrait mon sort?|79|0
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771323.wav|Als Aperitif oder Digestif gibt es meistens alkoholische Getränke.|61|1
+dataset/clean_comvoi/de/wavs/48/common_voice_de_18293463.wav|Am Flughafen muss man nach dem Check-In durch die Sicherheitskontrolle.|62|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863321.wav|Mais je suis meilleure que tu ne l'es.|56|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923252.wav|Эти выставки с этими картинами, это уже переходит всякие разумные границы.|7|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602569.wav|Pouvez-vous compter sur leur zèle?|79|0
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863396.wav|Qu'est-ce que vous mangerez?|56|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891635.wav|Он будет вести поиск компромиссных решений и работать с конкретным проектом договора.|34|4
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233619.wav|Wer hat dich nach deiner Meinung gefragt?|60|1
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18358115.wav|Die Metropolregion Sao Paulo ist das größte Ballungsgebiet Brasiliens.|70|1
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085065.wav|cinq rue Daunot, quatre-vingt-quatorze, cent quarante, Alfortville|49|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18243129.wav|Wenn Sie das Haustelefon benutzen, müssen Sie eine Null vorwählen, auch bei Notrufen.|30|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881330.wav|С этой целью я хочу подчеркнуть два момента.|51|4
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233060.wav|Ottawa ist die Hauptstadt von Kanada.|60|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695610.wav|Neem de eerste afslag na de brug.|20|2
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18736357.wav|In het Mandarijn, de officiële taal van China, gebruiken ze geen letters maar karakters.|27|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911732.wav|Представитель Соединенных Штатов, пожалуйста.|34|4
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18848661.wav|shèngmǔ méigūi shūyuàn shì yīsuǒ wèiyú jǐulóngtáng yòu yīcūn de tiānzhǔjiào nv̌zǐshūyuàn。|42|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888269.wav|Послушайте! огорченно сказал он.|34|4
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428615.wav|La fréquentation du restaurant a doublé ce mois-ci.|9|0
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18238119.wav|Für die kommende Woche hat die Gewerkschaft einen Streik angekündigt, sollten sich die Arbeitsbedingungen nicht verbessern.|60|1
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892737.wav|Мы всегда принимали активное участие в дискуссиях по этой теме на Конференции.|53|4
+dataset/clean_comvoi/de/wavs/31/common_voice_de_18358062.wav|Waschkeller sollten gut belüftet werden, damit es nicht zu Schimmelbildung kommt.|44|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18886053.wav|Jetzt will ich aber.|58|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18096682.wav|Avenue Président Doumer, Avallon|12|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18376038.wav|Sind wir bald da?, fragte Susi ihre Eltern.|38|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143891.wav|Comme j'en rirais! Mais, au moment le plus beau, tout s'arrêta.|50|0
+dataset/clean_comvoi/nl/wavs/02/common_voice_nl_18008243.wav|Er tekende zich een flauwe glimlach af op haar gezicht.|8|2
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327435.wav|Mischen Sie sich nicht in meine Arbeit ein.|77|1
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18433251.wav|Quatsch!, widerspricht der Deutsche.|18|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18878487.wav|Заслуживает всяческих похвал то, что сомалийцы начали разрабатывать свои природные ресурсы.|34|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17723091.wav|We wekken hotelgasten als ze dat vragen.|19|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907257.wav|Потому что отвечал за переезд университета в новое здание.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882048.wav|Я предоставляю слово представителю Сальвадора.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931478.wav|Ну а мы ведь уже работаем только в пленарном формате.|7|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603253.wav|Je pense que je plais à l'hôtesse.|79|0
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18873817.wav|Pourvu qu'il ne pleuve pas!|6|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888173.wav|Мы заботимся о достижении прогресса в этой области.|34|4
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18450619.wav|Am Mozartplatz steigst du aus und gehst einfach die Wagnerstraße nach Süden runter.|36|1
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17845095.wav|Il s'enfermait, forgeait des armes, battait le fer jusqu'à n'en pouvoir plus.|10|0
+dataset/clean_comvoi/fr/wavs/02/common_voice_fr_18814618.wav|Cette pâtisserie fait les meilleurs Paris-Brest de toute la ville.|71|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603226.wav|Ne t'assieds pas sur le hamster!|79|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18376004.wav|Dieses zwanzig Millionen Euro teure Projekt ist nun abgeschlossen.|38|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891573.wav|А теперь я ее знаю.|34|4
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18376019.wav|Neben der Bürgermeisterin war auch der Künstler anwesend.|38|1
+dataset/clean_comvoi/zh/wavs/02/common_voice_zh-CN_18774017.wav|bùfēn dìqū yǒuxū zài zǔxiān páiwèi qiánxíng shàngtóu lǐ de hūnsú lǐyí。|2|3
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17872439.wav|La parole est à Madame Carole Grandjean.|56|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907412.wav|Будем надеяться, что это прокатит ещё раз.|34|4
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18864067.wav|Il faut que je me montre.|57|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888480.wav|Когда речь идет о нас, невозможно добиться чего-либо без нас.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602640.wav|Arrêtée à quelques pas de cette maison.|79|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520812.wav|Werbetreibende wissen das.|37|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212112.wav|Mit den üblichen Tastenkombinationen kann man ausschneiden, kopieren und einfügen.|11|1
+dataset/clean_comvoi/zh/wavs/05/common_voice_zh-CN_18682200.wav|wèi dìèr， dìsānjiè quánguórénmíndàibiǎodàhùi dàibiǎo， dìyījiè， dìwǔjiè quánguózhèngxié wěiyuán。|82|3
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493673.wav|Il est tard, je vais me coucher.|75|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911626.wav|А сейчас я предоставлю слово тем делегациям, которые изъявили желание выступить сегодня.|34|4
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439412.wav|Bitte Zutreffendes Ankreuzen.|36|1
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735844.wav|Zijn vader had een mooie jacht.|27|2
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708506.wav|We hebben veel regen in juni.|19|2
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18660163.wav|línquánmǐn， zì。|54|3
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532808.wav|Den Stoff gibt es auch als Kapsel.|69|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143545.wav|un BIS ruelle Darnus|50|0
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213213.wav|Auf diesem Gebiet steckt die Entwicklung noch in den Kinderschuhen.|11|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240231.wav|Trois heures sonnaient.|73|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573210.wav|Il paraít que si l'on rêve assez fort, le songe déforme la réalité.|79|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576346.wav|Ces jeunes gens rentraient dans leurs familles avec la haine du protestantisme batave.|79|0
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205806.wav|Wenn du da draufklickst, müsste eine Fehlermeldung aufpoppen.|72|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882020.wav|Международное сообщество располагает значительными, но вместе с тем ограниченными возможностями.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931777.wav|Да мы, собственно, и постулировали бы обратное.|7|4
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18873794.wav|La parole est à Monsieur Pierre Morange, pour soutenir l'amendement numéro deux cent quatre-vingts.|6|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18217546.wav|Was sagt Wikipedia dazu?|30|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931480.wav|Тем не менее, общее положение остается неустойчивым и по-прежнему вызывает озабоченность.|7|4
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776180.wav|běncì xuǎnjǔ cǎiyòng zhèngdǎng míngdān zhì。|83|3
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18224876.wav|Leonie und Paul streiten sich darum, wer als erstes auf das Schaukelpferd darf.|80|1
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778628.wav|Rue du Champ Beaumont, soixante et un mille Saint-Germain-du-Corbéis|68|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573315.wav|La foule prolongeait son vivat.|79|0
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646490.wav|De whisky wordt gemaakt in een distilleerderij in Schotland.|45|2
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18238102.wav|Also ich höre nichts.|60|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18716248.wav|Dabei versucht man, möglichst die Mitte zu treffen.|36|1
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428698.wav|Il importe de ne pas succomber à la tentation d'ignorer.|9|0
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239684.wav|Avenue Alfred Motte à Roubaix|73|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521034.wav|Die Forscher berichten von steigender seismischer Aktivität in der abgesperrten Zone.|37|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439376.wav|Das ist die beste Ausrede, die man haben kann.|36|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653110.wav|Une odeur âcre planait dans la poussière suspendue.|47|0
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205019.wav|Herr Ober, zahlen bitte!|72|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881882.wav|Должны пресекаться попытки расшатать государственный суверенитет и целостность Сомали.|34|4
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18775179.wav|dìfāng bùníngshí chángjiàn yíngqǐng wángyé fèngsì， yìhuò zhènyā bìxié， sòngyíng wángchuán děng xísú， zài suǒ duō yǒu。|83|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888122.wav|Совершенно не похоже на соцреализм.|34|4
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906249.wav|Ze hebben samen de Mont Blanc beklommen.|66|2
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239928.wav|L'interview ne s’arrête pas là.|73|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923051.wav|Тем не менее, африканские лидеры признают определяющее значение международной поддержки.|7|4
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18889046.wav|Mit einem halben Punkt mehr hätte der Pechvogel bestanden.|58|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653240.wav|La petite y court, pour me plaire, dans le costume des nymphes.|47|0
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18661323.wav|Jetzt ist Schluss mit lustig.|5|1
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717817.wav|Am Empfang gibt es Champagner.|55|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239452.wav|On comprend mieux pourquoi cette loi n'est pas appliquée.|73|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18878539.wav|Предоставление Межправительственному органу по вопросам развития статуса наблюдателя в Генеральной Ассамблее.|34|4
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213398.wav|Jetzt sind wir an dem Punkt angelangt, wo es sich nicht mehr rentiert.|11|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18596908.wav|Oft ist Typ zwei auf einen ungesunden Lebensstil zurückzuführen.|36|1
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18226110.wav|Wenn Matthias was sagt, dann spricht er Klartext.|80|1
+dataset/clean_comvoi/fr/wavs/01/common_voice_fr_17810199.wav|À Sa Sainteté le Pape Pie six.|67|0
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18652918.wav|Les flamandes remettent en ordre des lymphocytes génétiquement modifiés en frissonnant.|47|0
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18224452.wav|Sei Epsilon kleiner als Null.|80|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240145.wav|Je n'avais pas déjeuné.|73|0
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861563.wav|C'est ce que nous sommes en train de faire.|56|0
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863401.wav|Früher gab es einen Blasebalg, der mit Muskelkraft bedient werden musste.|31|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881971.wav|Был ли ты когда-нибудь на Колыме?|34|4
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18779430.wav|Dabei handelt es sich nur um eine unverbindliche Preisempfehlung.|31|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863386.wav|Un événement imprévu le sauva, comme en mille cinq cent vingt-huit.|56|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881246.wav|Полагаем, что разработка и принятие такого международно-правового акта отвечает интересам всего мирового сообщества.|51|4
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143853.wav|Il n'y a aucun livre sur la table.|50|0
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735618.wav|Het schijnt gezond te zijn om vis te eten.|27|2
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875465.wav|Ты оставил мне на столе записку?|51|4
+dataset/clean_comvoi/de/wavs/29/common_voice_de_18509596.wav|Ohne die geostationären Satelliten kommt das System nicht aus.|59|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18278386.wav|J'ai des vices.|73|0
+dataset/clean_comvoi/fr/wavs/15/common_voice_fr_17747484.wav|Route de la Croix de Faslay à Luant|25|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573266.wav|Deux mimes gémissent.|79|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915348.wav|Принесены извинения и установлены виновные.|7|4
+dataset/clean_comvoi/de/wavs/04/common_voice_de_18372688.wav|Der Motor läuft aber ziemlich mager.|29|1
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233573.wav|In der Mühle wird Mehl gemahlen.|60|1
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892818.wav|Я также хотел бы поблагодарить коллег, которые своими замечаниями и советами оказывали помощь мне.|53|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17872460.wav|Alors il mit pied à terre.|56|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576677.wav|C'est une âme trop noble pour ne pas se soumettre aux principes.|79|0
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205843.wav|Antarktika ist der südlichste Kontinent der Erde.|72|1
+dataset/clean_comvoi/de/wavs/23/common_voice_de_18389122.wav|Nach der misslungenen Übernahme mehren sich Zweifel an der Unternehmensführung.|78|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695818.wav|In mei is die grote conferentie, dus dan ben ik niet beschikbaar.|20|2
+dataset/clean_comvoi/fr/wavs/02/common_voice_fr_18814549.wav|Rue du Panier Caraíbe, Ducos|71|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18250402.wav|Alles, was Sie zu wissen glauben, ist bedeutungslos.|30|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907318.wav|Бразилия также считает необходимым инициировать серьезное обсуждение будущего Миссии.|34|4
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686405.wav|Der Termin am Donnerstag wurde unverbindlich vorgemerkt.|0|1
+dataset/clean_comvoi/de/wavs/43/common_voice_de_18432726.wav|In der Sonne bleicht das Planschbecken aus.|63|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887743.wav|У тебя под подушкой есть фонарь.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911831.wav|Сейчас я предоставлю слово членам Совета.|34|4
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428709.wav|Il fait froid.|9|0
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18650704.wav|mǎ zhìyuǎn， yòu zuò mǎzhìyuǎn， běipíng cāngzhōu rén， míngzhāo zhèngzhì rénwù， jìnshì chūshēn。|54|3
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17723096.wav|Isaac Newton heeft belangrijk werk verricht op het gebied van de natuurkunde.|19|2
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18423365.wav|So eine müsste ich noch in Reserve haben.|52|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882055.wav|Доброй ночи.|34|4
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696291.wav|Ik heb een bericht achtergelaten op een post-it.|20|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18930948.wav|Как никогда большое число афганских провинций сами руководят борьбой с наркотиками.|34|4
+dataset/clean_comvoi/nl/wavs/02/common_voice_nl_18056970.wav|Er ligt nog een oude krant in de schuif.|8|2
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18777906.wav|Darf ich bitte mal einen Satz zu Ende sprechen?|31|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520723.wav|Die dümmsten Fragen kommen mal wieder von den Lehrämtlern, die sich als schlechte Schüler erwiesen haben.|37|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861608.wav|Je vous trouve joli!|56|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18430003.wav|Pilze und Bäume sind Verbündete.|52|1
+dataset/clean_comvoi/fr/wavs/05/common_voice_fr_18444326.wav|ils raclaient les bas-fonds|32|0
+dataset/clean_comvoi/fr/wavs/13/common_voice_fr_18192679.wav|Nous proposons donc de ne pas leur permettre de bénéficier du taux prévu.|1|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778437.wav|Quel est l'avis du Gouvernement? Avis défavorable, pour les mêmes raisons.|68|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888460.wav|Я хотел бы заверить Вас в полном сотрудничестве Колумбии.|34|4
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18650583.wav|dàn wánjiā xūyào zài zìwǒ xīnlǐyālì hé fùmǔ mǎnyìdù zhījiān wéichí pínghéng。|54|3
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520590.wav|Fermionen unterteilt man weiter in Quarks und Leptonen.|37|1
+dataset/clean_comvoi/fr/wavs/05/common_voice_fr_18444708.wav|Dans mes mains.|32|0
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863363.wav|L'amendement de Madame Boyer est vraiment élémentaire.|56|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896925.wav|Вот уже больше года в арабском мире происходят беспрецедентные радикальные перемены.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891497.wav|Георгий прочел записку.|34|4
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212386.wav|Es wurde ja auch nur ein halbherziger Versuch unternommen.|11|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686438.wav|Rotwein, Weißwein und Rose sind je nach Jahreszeit passend zu empfehlen.|0|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326663.wav|Mit dem World Wide Web steht uns so viel Wissen kostenlos zur Verfügung, dass wir unzählige Dinge lernen könnten.|77|1
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776371.wav|táoyuán qūzhōng hé lǐ， táoyuán qū de wénchāng gōngyuán dū yǒu tóngmíng wèi míngdé gōng de tǔdì cí。|83|3
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18675819.wav|wànlì shíyīnián， dēngjìnshì dìsān jiǎdì yībǎièrshí sānmíng。|54|3
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18886090.wav|Waldpool, hat das eigentlich jemand gelesen? Wie cool ist das denn?|58|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602550.wav|Nous avons pris nos quartiers dans une petite maison avec piscine.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877290.wav|Австралийские военные подразделения будут продолжать активно участвовать в деятельности антипиратской коалиции.|34|4
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267218.wav|De rits blokkeerde halverwege.|28|2
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923084.wav|Он юркнул за акацию и стал наблюдать.|7|4
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18864138.wav|Natürlich möchte Miriam sich gerne profilieren.|31|1
+dataset/clean_comvoi/fr/wavs/05/common_voice_fr_18279390.wav|Entre elle et Dacoma lui-même, leur choix n'eût pas été douteux.|32|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576395.wav|Toujours creuser, jamais s'enfouir|79|0
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143822.wav|J'ai froid.|50|0
+dataset/clean_comvoi/de/wavs/04/common_voice_de_18372778.wav|Dies ist ein sehr sonniger Ort.|29|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891629.wav|Установление же условий в мандате лишь ограничивает, а не расширяет наши переговоры.|34|4
+dataset/clean_comvoi/de/wavs/25/common_voice_de_18629602.wav|Zwei Leben verbleibend.|13|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18932803.wav|Ну и в конце - последний вопрос с просьбой дать короткий и четкий ответ.|7|4
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874314.wav|Gleich werde ich stinkig!|14|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861699.wav|Le roi doit être pour quelque chose dans tout ceci.|56|0
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706412.wav|Es schmeckt nach Zimt.|35|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18889068.wav|Kann man Whitespace ignorieren?|58|1
+dataset/clean_comvoi/de/wavs/29/common_voice_de_18513741.wav|Und jetzt alle im Chor!|59|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18653481.wav|Ein typisches Kernkraftwerk leistet etwa ein Gigawatt.|36|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17713684.wav|De bestuurder heeft een voetganger omver gereden en daarna een vluchtmisdrijf gepleegd.|19|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891589.wav|Бабка насторожилась.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931299.wav|Ботсвана придает большую важность защите и поощрению прав женщин и повышению их статуса.|7|4
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646498.wav|Sinds jaar en dag was hij atheïst.|45|2
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892630.wav|Это должно быть прямо закреплено.|53|4
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18848611.wav|màijí kèlǐkè shì wèiyú měiguó jiālìfúníyàzhōu mònuòxiàn de yīgè rénkǒupǔchá zhǐdìng dìqū。|42|3
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646521.wav|De politie onderzoekt momenteel nog waar hij zijn vaste verblijfplaats had.|45|2
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875572.wav|Позвольте мне упомянуть некоторые из тех принципов, на которых строится политика Португалии.|51|4
+dataset/clean_comvoi/de/wavs/23/common_voice_de_18388991.wav|Dann kann ich jetzt ja die Wäsche aufhängen.|78|1
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874301.wav|Das Leben ist schön!|14|1
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778411.wav|Enfin, n'est-ce pas qu’il y a là dedans un certain souffle?|68|0
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771300.wav|Von dir lasse ich mir nicht den Mund verbieten.|61|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18450616.wav|Läuft bei dir.|36|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891525.wav|Ломе - столица Того.|34|4
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18654416.wav|Damit fuhr sie zum zehn Kilometer entfernten Biohof.|38|1
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17848138.wav|Vous, monsieur Topeau, vous m'écoutiez?|10|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891628.wav|Женя заглянула через щель.|34|4
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18652924.wav|Le clairon de la caserne jetait ses notes allègres.|47|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915397.wav|Шляпа эта была высокая, круглая, но вся уже изношенная.|7|4
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18433176.wav|Jetzt schreit wieder einer der Jungs im Schlaf, da schrecke ich ewig zusammen.|18|1
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906207.wav|Hoeveel tijd resteert er nog op mijn timer?|66|2
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521074.wav|Erst seit kurzem gibt es in der Wohngemeinschaft einen Putzplan.|37|1
+dataset/clean_comvoi/zh/wavs/02/common_voice_zh-CN_18594816.wav|yīzhīméi， zhōngguó gǔdài mínjiānchuánshuō zhōng de shéntōu， yīn měicì xíngqiè chénggōng jìu zài qiángshàng huà yīzhī méihuā ér démíng。|2|3
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861689.wav|Du moins était-ce ainsi de mon temps.|56|0
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428633.wav|Ne pleurez pas.|9|0
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863840.wav|Einfach zurücklehnen und genießen.|31|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882029.wav|Слово имеет представитель Швейцарии.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896930.wav|Небольшая комната была в эту минуту ярко освещена заходящим солнцем.|34|4
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390632.wav|Könnte ich bitte ein Stück Brot haben?|16|1
+dataset/clean_comvoi/nl/wavs/02/common_voice_nl_18056968.wav|Bewust belasting ontduiken is niet toegestaan.|8|2
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18589852.wav|Sind die Sätze so in Ordnung?|36|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602859.wav|Kellyanne Conway se réveillera.|79|0
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18450339.wav|Es soll sofort ein Techniker vorbeikommen und sich das ansehen!|36|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916097.wav|Как быть успешным живописцем в Америке.|7|4
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18894149.wav|Я не люблю овощи.|3|4
+dataset/clean_comvoi/de/wavs/29/common_voice_de_18509588.wav|Dort wird schon morgens um zehn auf den Tischen getanzt.|59|1
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906336.wav|Na een elegante sprong landde hij zacht aan de andere kant van de greppel.|66|2
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18846098.wav|hántiān yīchū yīshí jìnrù shànghǎishì shìběi zhōngxué jìudú， bìng kāishǐ liànxí dǎ páiqíu。|42|3
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17712713.wav|Niet iedereen ruimt de uitwerpselen van zijn huisdier op, op straat.|19|2
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18582329.wav|Vier betrunkene Opas musizieren und fühlen sich dabei frei wie der Wind.|5|1
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18560648.wav|Nimm die Beine in die Hand.|5|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875844.wav|Требования народов арабского мира уже вошли в историю.|51|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888078.wav|Олечка, не ходи на инженера, ходи на доктора, заговорила Женя, подсовывая Ольге настольное зеркало.|34|4
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776255.wav|yīmíng nánxìng jūmín yě bèi xiányírén cìshāng， dàn shèfǎ bìmiǎn le zhòngdà shānghài。|83|3
+dataset/clean_comvoi/nl/wavs/09/common_voice_nl_17700576.wav|Je kan je computer bedienen met een toetsenbord en muis.|23|2
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18376103.wav|Die Winkelhalbierende unterteilt das Winkelfeld in zwei deckungsgleiche Teile.|38|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521023.wav|Freilich haben auch Tiere Gefühle, sagt Hubert.|37|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862810.wav|Ein paar hier und ein paar dort.|58|1
+dataset/clean_comvoi/de/wavs/23/common_voice_de_18389074.wav|Dies ist ein sehr sonniger Ort.|78|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212308.wav|Im letzten Level trifft man auf einen ultimativen Kämpfer.|11|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860845.wav|Aber inzwischen ist die Strecke wieder frei.|58|1
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17936638.wav|Cette lettre, Raymond savait d'avance qu'elle ne lui apprendrait rien.|10|0
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863626.wav|Wem soll dieser Brei schmecken?|31|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576193.wav|Histoire de tuer le temps, je les déchiffre toutes.|79|0
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439393.wav|Vertraust du mir blind?|36|1
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18848582.wav|běn gēqū wánquán yóu qiǎěrwén yīrén zhìzuò wánchéng。|42|3
+dataset/clean_comvoi/de/wavs/32/common_voice_de_18634203.wav|Der Altar wiegt mindestens vierzig Zentner.|26|1
+dataset/clean_comvoi/nl/wavs/07/common_voice_nl_17705773.wav|Ze zijn op zoek naar de schat van de piraten.|81|2
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18243141.wav|Bitte nicht stören!|30|1
+dataset/clean_comvoi/fr/wavs/10/common_voice_fr_18877981.wav|Viens donc, les amis nous attendent.|64|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17723156.wav|Zij is zeer intelligent.|19|2
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18211977.wav|Behalte einen kühlen Kopf und lass die Gefühle nicht das Kommando übernehmen.|11|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603208.wav|Omer eut quelque peine à retrouver son cheval.|79|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862780.wav|Der Streit zwischen Koalition und Opposition wirkt zuweilen inszeniert.|58|1
+dataset/clean_comvoi/fr/wavs/22/common_voice_fr_18771293.wav|Prends garde! jenny et GABRIELLE.|21|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695192.wav|Nijmegen en Apeldoorn liggen beide in Gelderland.|20|2
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18864113.wav|In der Kälte verkauft der Herr seit zwei Stunden ofenfrische Brezeln.|31|1
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18649055.wav|Neeroeteren is een deelgemeente van Maaseik.|45|2
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695245.wav|Door zelf de tomaten te kweken bespaarde Amber veel geld.|20|2
+dataset/clean_comvoi/fr/wavs/26/common_voice_fr_18408549.wav|Une étoile au Michelin ça aurait été plus vendeur|4|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18685799.wav|Ich stehe im wahrsten Sinne des Wortes hinter dir.|0|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696007.wav|De regenpijp lekt weer.|20|2
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875918.wav|А между тем конфликт продолжает обостряться.|51|4
+dataset/clean_comvoi/nl/wavs/06/common_voice_nl_17906245.wav|Ongetwijfeld zitten er vele voorbeelden van sluikreclame in deze zinnen.|66|2
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17936641.wav|Quel rapport avec la réserve parlementaire? Quel est l'avis du Gouvernement? Avis défavorable.|10|0
+dataset/clean_comvoi/fr/wavs/22/common_voice_fr_18771288.wav|Arnaud a démissionné la semaine dernière.|21|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695259.wav|Mijn achternaam is Peeters.|20|2
+dataset/clean_comvoi/zh/wavs/05/common_voice_zh-CN_18682219.wav|zài shēngyōu de xuéxí kèchéng zhōng biǎoxiànchūsè， céng tōngguò xuéxiào nèi shìyīn hùi， yě qùguò dònghuà lùzhì xiàncháng pèi guòlùrén。|82|3
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267187.wav|Anna heeft Eva en Fleur uitgenodigd voor een barbecue bij haar thuis.|28|2
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686274.wav|Die Generalzolldirektion wird von einer Frau geleitet.|0|1
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18863741.wav|Si vous souhaitez le modifier, vous pouvez faire une proposition en ce sens.|57|0
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18848960.wav|zài qīngshǎonián shíqī， tā zé shòu shénjīngxìng bàoshí zhèng suǒkùn。|42|3
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646330.wav|De dief kon vluchten via het dak.|45|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18878561.wav|Эта проблема годами рассматривается на различных дискуссиях.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916018.wav|В политической области предприняты ожидаемые шаги.|7|4
+dataset/clean_comvoi/de/wavs/32/common_voice_de_18634247.wav|Versehentlich wirft Frau Engelhart die Regentonne um.|26|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18653402.wav|Zu Befehl!|36|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327418.wav|Insgesamt aber ist das Verfahren ausgereift.|77|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576311.wav|Son message est ambigu.|79|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708496.wav|Heb jij ooit yoga gedaan?|19|2
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520934.wav|Müssen alle Tiere schlafen?|37|1
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892802.wav|Ничего, он сегодня добрый.|53|4
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18646943.wav|yǐ chēzhàn zhànfáng shàng jùdà de tǔǒu ér rùxuǎn dōngběi chēzhàn bǎixuǎn。|54|3
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326813.wav|Lass uns diskutieren.|77|1
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18736026.wav|Met dit weer heb ik meer last van astma.|27|2
+dataset/clean_comvoi/de/wavs/09/common_voice_de_18717254.wav|Diese Formulierung ist mir noch zu verschwurbelt.|55|1
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771359.wav|Emotionale Vernachlässigung im Kindesalter kann genauso traumatische Folgen wie andere Misshandlungen haben.|61|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239942.wav| Puis, doucement, ils refermèrent la porte, ils s'en allèrent.|73|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888084.wav|Только негодяй может при этом думать о плохом.|34|4
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327513.wav|Simon hat eine Zahnlücke, dank der er so laut pfeifen kann wie kein Zweiter.|77|1
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17848133.wav|À l'arrière de la banque.|10|0
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653203.wav|Croire et oser|47|0
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18716187.wav|Amelie begibt sich mit einer Wünschelrute auf die Suche nach einer Wasserader.|36|1
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18848699.wav|shèjiāo jiāolv shì zhǐ dùi shèjiāohùdòng de yōulv yǔ jǐnzhāng。|42|3
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18376016.wav|Lima ist die Hauptstadt von Peru.|38|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088803.wav|Aujourd'hui il ne s'agit pas de manger.|12|0
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212270.wav|Bei der Hitze schwitzt man so stark, dass einem die Sonnencreme ins Auge läuft.|11|1
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892791.wav|Не лезь!|53|4
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920864.wav|Её печатают на трёхмерном принтере, используя технологию послойного наложения расплавленной полимерной нити.|43|4
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197170.wav|Le mal physique avait complété l'oeuvre du mal moral.|24|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18375978.wav|Antarktika ist der südlichste Kontinent der Erde.|38|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708630.wav|De kat krabt de krollen van de trap.|19|2
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205679.wav|So gut wie jeder hat eine Meinung dazu.|72|1
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18368738.wav|Wie lange läuft die Waschmaschine noch?|18|1
+dataset/clean_comvoi/nl/wavs/09/common_voice_nl_17699949.wav|Zetelverwarming is enorm comfortabel in de winter.|23|2
+dataset/clean_comvoi/zh/wavs/01/common_voice_zh-CN_18756072.wav|lǔ duōfū qiǎ shìzhèn shì éluōsīliánbāng yīěrkùcíkèzhōu rìjiā luòwòqū suǒshǔ de yīgè shìzhèn。|76|3
+dataset/clean_comvoi/nl/wavs/12/common_voice_nl_17700592.wav|In de vijftiende eeuw heeft Columbus Amerika ontdekt.|33|2
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920753.wav|Читая книгу, Ольга поднималась в гору.|43|4
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875869.wav|Одним из важных элементов работы будет активизация деятельности Ассамблеи и ее Председателя.|51|4
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085054.wav|Nous ne devions pas contrarier les habitudes du pays.|49|0
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863667.wav|Die Behandlung war kostenlos, aber bestimmt nicht umsonst.|31|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881290.wav|Вот погоди, приедет папа, и он в твоей любви разберется.|51|4
+dataset/clean_comvoi/zh/wavs/02/common_voice_zh-CN_18593086.wav|qìngdiǎn shí， rénmen diǎnqǐ tèbié de làzhú， zhǔfù zé zhìzuò zhuāngshì jiǎngjīu de sī lāwǎ dàngāo。|2|3
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686021.wav|Wie viele Aprikosen kommen auf den Tortenboden?|0|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931335.wav|Мы абсолютно уверены в его успехе.|7|4
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860889.wav|Aber eigentlich ist es nicht das Ereignis alleine, das das Trauma bedingt.|58|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888042.wav|Один какой-нибудь стакан пива, кусок сухаря, и вот, крепнет ум, яснеет мысль!|34|4
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696168.wav|Met de meester viel niet te spotten.|20|2
+dataset/clean_comvoi/de/wavs/47/common_voice_de_18529225.wav|Meine Beiträge enthalten auch Fehler, die mir manchmal erst im Nachhinein auffallen.|17|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862958.wav|Victor, ik heb morgen een afspraak gemaakt om vijf uur in de namiddag.|19|2
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18434299.wav|Chaude et lourde, elle pesait là, sans espoir.|6|0
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735855.wav|De jager schoot maar miste de fazant.|27|2
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520705.wav|Steht etwas in der Log-Datei?|37|1
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366331.wav|Der Kern des Planeten ist pures Gold.|40|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695178.wav|Ze heeft prachtige krullen.|20|2
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18725306.wav|Es ist zum Heulen.|35|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916166.wav|Я глубоко обеспокоен вспышкой насилия вокруг Газы.|7|4
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695201.wav|Ben je wel eens naar een theater geweest?|20|2
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860789.wav|Warum merkt sich der Datei-Explorer nie die Sortierung?|58|1
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18725320.wav|Alle Kinder sind kitzelig.|35|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887906.wav|Я уже обо всем пишу папе.|34|4
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778454.wav|Cette entrevue fut extrêmement touchante.|68|0
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205855.wav|Darauf angesprochen druckste Jochen herum, aber brachte keine echte Antwort zustande.|72|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17712709.wav|Geweldig, dat was het beste optreden dat ik ooit gezien heb!|19|2
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18639113.wav|Daten sind das neue Öl.|39|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576647.wav|La plupart des vociférations s'apaisèrent.|79|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881307.wav|Я предоставляю слово представителю Исламской Республики Иран.|51|4
+dataset/clean_comvoi/fr/wavs/26/common_voice_fr_18408535.wav|Il y a un tas de choses bon-marché dans ce magasin.|4|0
+dataset/clean_comvoi/nl/wavs/09/common_voice_nl_17699934.wav|Staat jullie tv op een tv-meubel of hangt hij aan de muur?|23|2
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863380.wav|Enjolras avait un pistolet à la main.|56|0
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892641.wav|А Женя, потихоньку подвигаясь к распахнутому окну, продолжала.|53|4
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532851.wav|Wir müssten das Notebook erst einschicken.|69|1
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18853502.wav|Я могу менять ситуацию к лучшему.|3|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931861.wav|Сегодня судебная система является в полной мере независимой|7|4
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085063.wav|Le voisin ne rentre jamais avant onze heures.|49|0
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689530.wav|Das Shooting findet auf einem aufgelassenen Fabriksgelände statt.|22|1
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920696.wav|Тут оба мальчишки покатились на траву.|43|4
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326589.wav|Wenn du deinen Spinat nicht aufisst, gibt es für dich keinen Nachtisch.|77|1
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18736049.wav|Zou je nog een paar zinnen kunnen lezen voor mij?|27|2
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696465.wav|De meeste gletsjers zijn erg gekrompen in de laatste jaren.|20|2
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366278.wav|Es verbirgt eine Botschaft des Künstlers.|40|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861545.wav|Le général Claparède.|56|0
+dataset/clean_comvoi/de/wavs/48/common_voice_de_18293449.wav|Haben Sie schon einmal den Keilriemen gewechselt?|62|1
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18863913.wav|Ce piège, même les plus grands y tombent.|57|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881991.wav|Как сознает Генеральный секретарь, задача эта далеко не простая.|34|4
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920910.wav|Возможно, у меня это получится, а возможно, и нет.|43|4
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18864056.wav|Dans l'avenir personne ne tuera personne, la terre rayonnera, le genre humain aimera.|57|0
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197149.wav|À un kilomètre, qu'on le retapissait!|24|0
+dataset/clean_comvoi/de/wavs/33/common_voice_de_18360420.wav|Die Erde zieht den Mond an.|74|1
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18648922.wav|Das habe ich befürchtet.|5|1
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771331.wav|Egal wie gut man in Mathe ist, man findet mühelos ein überforderndes Problem.|61|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882032.wav|Я вижу, что слово желает взять делегат Аргентины.|34|4
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366225.wav|Helsinki ist die Hauptstadt von Finnland.|40|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143585.wav|Environ huit heures de voyage avec la route.|50|0
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084767.wav|Alors il saisit un fusil et commence à battre la porte à coups de crosse.|49|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686515.wav|Aber der Roman "Biskaya" geht immer ein paar Schritte weiter, ist abgerundeter.|0|1
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084782.wav|Il ne va pas tarder. c'est l’heure de la poule.|49|0
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892819.wav|Россия готова и дальше продвигаться по пути проверяемых и необратимых сокращений ядерного оружия.|53|4
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326832.wav|Ist der Kakao UTZ-zertifiziert?|77|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888470.wav|А потом дрова покидали и опять ускочили.|34|4
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521095.wav|Ob man beides getrennt oder zusammen isst, ist egal.|37|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696697.wav|Hij had het pakketje verstopt in de mannentoiletten.|20|2
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18849144.wav|jié xīqiǎ. hēng wéikè， zhōngwénmíng yùlǐ， shì yīwèi yīngguó nv̌yǎnyuán。|42|3
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602921.wav|Ta mère s'étiole dans le désert.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896988.wav|Мы считаем эти договоры жизненно важными для достижения целей этих проектов резолюций.|34|4
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778733.wav|Régulus demanda: C'est bien ici qu'habite madame Dubois? Oui, monsieur.|68|0
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205886.wav|Sind Sie auf der Gästeliste?|72|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18932904.wav|Сегодня Сомали находится на перепутье.|7|4
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18889025.wav|Von wegen Jugendschutz!|58|1
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776289.wav|yóucǐ róngzhù le tèdìng gòngtóngtǐ de chéngyuán suǒ gòngyǒu de xìnniàn， jiàzhí， jìzhú děngděng gōuchéng de zhěngtǐ。|83|3
+dataset/clean_comvoi/de/wavs/48/common_voice_de_18293450.wav|Brautkleider werden total überbewertet.|62|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18782168.wav|Wer will alles ein Eis?|31|1
+dataset/clean_comvoi/nl/wavs/10/common_voice_nl_17722705.wav|Heb je de nieuwe film van Spielberg al gezien?|41|2
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428627.wav|Lui, il a été aimé.|9|0
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233064.wav|Abidjan ist der Regierungssitz der Elfenbeinküste.|60|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327484.wav|Hast du dein Ticket nach Görlitz schon gebucht?|77|1
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18725243.wav|Sehr verlockend, aber lassen Sie mich zunächst etwas anderes probieren.|35|1
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776115.wav|shèngxī bōlǐtáng， gōngfèng luōmǎ de xībōlǐ。|83|3
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576801.wav|Assez dissimulé, en nous cachant, en complotant!|79|0
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874302.wav|Slums entstehen, wenn Städte planlos wachsen.|14|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863458.wav|Es kübelt schon den ganzen Tag.|31|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861664.wav|Monsieur Robert-Houdin est connu dans le monde entier.|56|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887838.wav|Загрузка производственных мощностей снижается третий месяц подряд.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576625.wav|Des filous reconnaítront dissocier le contrat et des nids de guêpes.|79|0
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229609.wav|Wenn auf Bilderkennung trainierte neuronale Netze träumen, erzeugen sie kunstvolle Bilder.|48|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327222.wav|Die Beeren sind noch nicht reif.|77|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327270.wav|Wasch mich, aber mach mich nicht nass.|77|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18847121.wav|Bei Installationen klickt Verona einfach immer auf "Weiter".|31|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576229.wav|Il est débordé par ces enfants.|79|0
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18848920.wav|shèngyuēhàn jiàotáng shì hélán chéngshì háodá de yīzuò jiàotáng， wàiguān wèi gētèshì jiànzhú， nèibù de huā chuāngbōlí jíjù tèsè。|42|3
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143833.wav|il ramène une fille différente chaque semaine.|50|0
+dataset/clean_comvoi/nl/wavs/12/common_voice_nl_17700391.wav|Als je met de fiets naar het werk gaat krijg je een fietsvergoeding.|33|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881891.wav|Нгерулмуд - столица Палау.|34|4
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088628.wav|Aussi doit-on peut-être prendre avec une relative indépendance les diktats de l'Europe.|12|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891791.wav|С этой забавной девочкой хлебнешь горя, снова повторила Ольга.|34|4
+dataset/clean_comvoi/fr/wavs/13/common_voice_fr_18349623.wav|La signature royale y était pour mille francs.|1|0
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18868959.wav|Я предоставляю слово представителю Республики Корея.|3|4
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771341.wav|So wie es aussieht, ist eine Leitung durchgeschmort.|61|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212427.wav|Bei Sauerstoffüberschuss wiederum können Stickoxide entstehen.|11|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18782177.wav|Sind sie gut informiert?|31|1
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532812.wav|Man sollte sich von ihr fernhalten.|69|1
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776129.wav|qīnghǎi gāoxīnjìzhú chǎnyè kāifāqū|83|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888343.wav|Почему люди в Америке так много улыбаются?|34|4
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696512.wav|Die tunnel is deels geboord en deels uitgehouwen uit de bergen.|20|2
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646438.wav|Een slechte verbranding kan koolstofmonoxide creëren.|45|2
+dataset/clean_comvoi/nl/wavs/02/common_voice_nl_18008096.wav|De friet was onderweg naar huis koud geworden.|8|2
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17848140.wav|Ruelle Ferté, soixante et un mille quatre cents Mortagne-au-Perche|10|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891661.wav|Он уже прежде знал, что в этой квартире жил один семейный немец.|34|4
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18358114.wav|Heutzutage lassen sich beide Brücken kostenlos überqueren.|70|1
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646374.wav|Brisbane, Melbourne en Perth zijn steden in Australië.|45|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907452.wav|Причем, может быть примитивный пейзаж какой-то.|34|4
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18560644.wav|In einem speziellen Aquarium kann man die Stromstöße von Zitteraalen messen und hörbar machen.|5|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18450630.wav|Da vorne kommt mein Ex.|36|1
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706327.wav|Ich mag rote Rosen und Narzissen.|35|1
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18247280.wav|Mel benimmt sich flegelhaft.|30|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931351.wav|Международное сообщество принимает ряд мер по защите и обеспечению безопасности ядерных и радиологических материалов.|7|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576660.wav|Maman ordonne de tout accommoder pour notre séjour durant les froids.|79|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18429931.wav|Alternativ schlagen italienische Forscher vor, Schwarze Löcher auf Getreidefeldern zu erzeugen.|52|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861569.wav|Variations dans le gouvernement de Gênes.|56|0
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18849209.wav|dàn xiāngguān wēibó qíhòu bèi shānchú。|42|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887963.wav|Как Прокурор я обязан содействовать усилиям по исполнению выданных Судом ордеров на арест.|34|4
+dataset/clean_comvoi/nl/wavs/10/common_voice_nl_17738037.wav|Voor hun huis zijn ze een lening van twintig jaar aangegaan.|41|2
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18582449.wav|Beethoven war taub.|5|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18882052.wav|Сокращение донорского финансирования тоже отрицательно сказывается на усилиях по восстановлению.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576623.wav|Pourtant un cercle d'ouvriers l'entoura.|79|0
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239421.wav|Rue Heitzler René, cinquante-sept, trois cent quarante Morhange|73|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695320.wav|Kan je de serie even op pauze zetten?|20|2
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18863715.wav|Enseignants, la mise en avant des marques commerciales est interdite dans l'école.|57|0
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892687.wav|Да, ответил Тимур.|53|4
+dataset/clean_comvoi/fr/wavs/22/common_voice_fr_18771266.wav|Cela peut être perturbant, nous préférons des candidats qui soient bien prédisposés|21|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520858.wav|Gibt es einen Fachbegriff für diese Art von Sprachfehler?|37|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708510.wav|De overheid verbood het exporteren van krab.|19|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877328.wav|Он стремился сделать все для защиты дела мира, безопасности, стабильности и прав человека.|34|4
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18725268.wav|Sollte der Fall der Fälle eintreten, stehe ich dumm da.|35|1
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776258.wav|piàn zhōngjūn fěi dàzhàn yīcháng， chōngfēng yèzhàn， yóuwèi dàguān。|83|3
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923271.wav|Это будет яичный желток.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891800.wav|Она высыпала огурцы на межу, выдернула большой пук крапивы, подкралась и притаилась у забора.|34|4
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213271.wav|Kommt man mit der Drehleiter wirklich bis ins oberste Stockwerk?|11|1
+dataset/clean_comvoi/de/wavs/04/common_voice_de_18372690.wav|Wahrscheinlich ist der Anlasser kaputt.|29|1
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18368728.wav|Teheran ist die Hauptstadt vom Iran.|18|1
+dataset/clean_comvoi/de/wavs/25/common_voice_de_18629896.wav|Hört, hört!|13|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240310.wav|C'est juridiquement impossible.|73|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18266596.wav|Ich wusste gar nicht, dass du aus Castrop-Rauxel kommst|30|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931592.wav|Мы должны уделить более пристальное внимание превентивной стороне вопроса.|7|4
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18725317.wav|Friede sei mit dir.|35|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_18133211.wav|In het eerste leerjaar leer je simpele sommen waarbij je moet optellen en aftrekken.|19|2
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18368772.wav|Von Oktober bis Ostern sollte ein Auto mit Winterreifen ausgerüstet sein.|18|1
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776361.wav|nán shèdélán hǎigōu shì wèiyú nánbīngyángnán shèdélán qúndǎo běifāng hǎidǐ de hǎigōu。|83|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887966.wav|Каковы же те элементы, по которым нам было бы легче достичь консенсуса?|34|4
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085094.wav|Cependant, la commission a émis un avis défavorable.|49|0
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18326773.wav|Mit einer gekonnten Bewegung schwang er sich über die Leitplanke.|77|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603277.wav|Alors Pied-de-Jacinthe boutonna son habit carré contre sa maigre poitrine.|79|0
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428638.wav|Dix-sept maisons.|9|0
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18357235.wav|Kohle und Öl haben versteckte Kosten, unter denen Dritte leiden.|70|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088640.wav|Oh! ma Micheline adorée! Regardez-moi.|12|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18243125.wav|In meinen Augen ist Gustav vom Scheitel bis zur Sohle ein frommer Christ, urteilte Pastor Sigmund.|30|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863610.wav|Um der jüngsten Kritik Rechnung zu tragen, möchte sie dem Thema mehr Bedeutung beimessen.|31|1
+dataset/clean_comvoi/fr/wavs/10/common_voice_fr_18864541.wav|Le gamin tâchait de comprendre le mécanisme d'une arquebuse à rouet.|64|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602718.wav|Ils sont bien habillés, style jeunes cadres de sortie.|79|0
+dataset/clean_comvoi/nl/wavs/07/common_voice_nl_17705768.wav|Mijn grootouders zitten in het bejaardentehuis.|81|2
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327367.wav|Da muss ich mich vertan haben, grübelte Kunibert.|77|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877335.wav|Ты смотри, дорогая, как бы они твою сестренку не отколошматили.|34|4
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239450.wav|Il nous faut donc trouver des solutions pour concilier ces deux points de vue.|73|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875485.wav|Послышался злобный смех.|51|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877258.wav|Мы признательны всем странам, предоставляющим войска, за их усилия.|34|4
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439389.wav|Die Gebühr beträgt zwei Euro pro Paar.|36|1
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18848939.wav|fúlán. lìbōwéizī shì yīwèi měiguózuòjiā， yǎnjiǎng jiā， yèyú yǎnyuán。|42|3
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778416.wav|six boulevard Auguste Gaudin, vingt, deux cents à Bastia|68|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778704.wav|De fait, la répartition sur le territoire n'est pas homogène.|68|0
+dataset/clean_comvoi/de/wavs/29/common_voice_de_18509585.wav|Mathematik ist die Kunst, das Rechnen zu vermeiden.|59|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327232.wav|Meine Oma hört Stimmen, wenn sie einsam ist.|77|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881994.wav|Благодарю представителя Пакистана за его заявление и за его добрые слова.|34|4
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143824.wav|Comment ça se dit en français?|50|0
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653164.wav|Un groupe entonna le chant des Girondins.|47|0
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439364.wav|Und die Eltern stehen erfreut daneben und schießen sogar Fotos!|36|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602461.wav|Et ils ont arrêté quand?|79|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576248.wav|Omer se détourna vers le coin où tonnait cette voix.|79|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17712670.wav|Vorig seizoen zijn er twee leden van onze skiclub omgekomen in een lawine.|19|2
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212099.wav|Die Gefangenen brüten etwas aus.|11|1
+dataset/clean_comvoi/de/wavs/26/common_voice_de_18703455.wav|Jeder kann eine Kleinigkeit beisteuern.|15|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18170877.wav|Il l'interpelle et lui parle de son porc comme d'un âne.|12|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602840.wav|Advienne que pourra.|79|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862921.wav|September is onze beste maand, alle agenda's worden dan goed verkocht.|19|2
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576297.wav|De Vitrolles atténua mal son sourire de sceptique devant ces rhéteurs.|79|0
+dataset/clean_comvoi/de/wavs/26/common_voice_de_18703448.wav|Kühl und dunkel lagern, dabei nicht die gleichmäßige Temperatur aus den Augen verlieren.|15|1
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205808.wav|Ist diese Technik nicht geil?|72|1
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18582447.wav|Ich verfolge euch schon 'ne ganze Weile.|5|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861527.wav|trente-quatre rue de Civray, cinquante-sept, huit cents à Freyming-Merlebach|56|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18266566.wav|Womit hast du die Ravioli gefüllt?|30|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439425.wav|Sie nutzen das Überraschungsmoment und fliehen über das Dach.|36|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603378.wav|Aux demi-soldes, le prince restituait des grades et des commandements.|79|0
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18211995.wav|Geh hinunter und hilf deinem Vater!|11|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888440.wav|Успех переходных мероприятий является для Афганистана залогом обеспечения мира и стабильности.|34|4
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18085109.wav|dix avenue de Riedisheim|49|0
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18266588.wav|Im Mittelalter hat man Dieben die Finger abgetrennt.|30|1
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366191.wav|Astana ist die Hauptstadt von Kasachstan.|40|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875645.wav|Всё блестело.|51|4
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18779307.wav|bèi yīqīngmiào yùwèi táinán rénqíngwèi dàibiǎo。|83|3
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532860.wav|Ich lese vor, du machst im Hintergrund die Beatbox, okay?|69|1
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18243101.wav|Gierig kippte er sich noch mehr von dem Zeug in den Schlund.|30|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931636.wav|Я вижу, что слово желает взять представитель Египта.|7|4
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18894148.wav|Несмотря на все это, политический переход в Гаити происходит не без трудностей.|3|4
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18685801.wav|Das Auge isst mit.|0|1
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084859.wav|Enfin, la SARA importe des produits finis et semi-finis, qui proviennent notamment de la zone.|49|0
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18672729.wav|Il existe des moteurs de recherche pour entreprise open source.|6|0
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735572.wav|Hij koestert geen wrok meer.|27|2
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573265.wav|C'est un peu pour ça que je venais te voir.|79|0
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689565.wav|Meine Sims haben immer Harndrang.|22|1
+dataset/clean_comvoi/de/wavs/43/common_voice_de_18432744.wav|Ich habe vorhin gesehen, dass viele Leute ihren Müll gar nicht trennen.|63|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861587.wav|Il est plafonné à sept cent cinquante mille euros par entreprise et par exercice.|56|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891464.wav|Я сплю, до завтра!|34|4
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695666.wav|De communicatie verloopt via een geostationaire satelliet.|20|2
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653091.wav|Quatre athées ont besoin d'une fillette.|47|0
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18849008.wav|zhàowénzhuō， mòshǎocōng， yánggōngrú， yángruòxī zhǔyǎn。|42|3
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18644723.wav|Immerhin leitet Frau Ziegler ein renommiertes Forschungsinstitut.|39|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877319.wav|Как мы уже многократно заявляли, нашим высочайшим приоритетом остается ядерное разоружение.|34|4
+dataset/clean_comvoi/de/wavs/48/common_voice_de_18293515.wav|Schwammige Formulierungen wie diese sind fast schon eine Garantie für nicht vorhandenes Problembewusstsein.|62|1
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18649139.wav|De koning van dit land heeft drie kinderen.|45|2
+dataset/clean_comvoi/nl/wavs/09/common_voice_nl_17700282.wav|De zussen gaven elkaar een knuffel toen ze elkaar terug zagen.|23|2
+dataset/clean_comvoi/fr/wavs/01/common_voice_fr_17810236.wav|L'avis de la commission est donc évidemment défavorable.|67|0
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18660260.wav|běntián rénměi。|54|3
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239557.wav|Le Conseil constitutionnel a été saisi et il a censuré cette disposition.|73|0
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18648440.wav|On lâchait des coups de fusil dans la serrure: elle céda.|6|0
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_18130659.wav|Ah! quelle rage d'épousseter!|10|0
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327277.wav|Als sie aus dem Urlaub wiederkamen, fanden sie auf der Terrasse ein Vogelnest vor.|77|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213191.wav|Bratislava ist die Hauptstadt der Slowakei.|11|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573234.wav|Un laquais leur ouvrit la bibliothèque.|79|0
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653070.wav|Les charpentiers hésitent à comploter.|47|0
+dataset/clean_comvoi/zh/wavs/02/common_voice_zh-CN_18592948.wav|wēnrúzhēn， línān fǔ āmízhōu rén， míngzhāo， nánmíng jūnshì rénwù。|2|3
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17695518.wav|Er staat nog een doos ontbijtgranen in de kast boven het vuur.|20|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877297.wav|Эти чиновники занимаются сбытом оружия и одновременно выступают посредниками на мирных переговорах.|34|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861676.wav|Allons, mon ami, contez-moi cela bien exactement.|56|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862773.wav|Das Gurgeln ist das Schönste am Zähneputzen.|58|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861564.wav|C'est un fantôme qui appelle.|56|0
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18170879.wav|N'a en tête que nos leçons, les convenances, la morale et autres soins domestiques.|12|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896972.wav|И соответственно, как никогда возросли упования международного сообщества на активизацию Конференции.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931909.wav|Надо было дожидаться хозяев.|7|4
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18705351.wav|"Lithiumabbau durch Kinderarbeit?", hakt Yasmin nach. Yvonne antwortet.|35|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18907310.wav|По сути, это и делает нас людьми.|34|4
+dataset/clean_comvoi/nl/wavs/10/common_voice_nl_17738045.wav|Hij bengelde aan het touw.|41|2
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084788.wav|Jamais encore elle n'eût supposé possible une telle succession d'infamies.|49|0
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653289.wav|Il a eu ses vapeurs.|47|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923127.wav|Помимо гуманитарных проблем, эта ситуация вызывает озабоченность в плане безопасности.|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881941.wav|Это критически важный момент для Сомали.|34|4
+dataset/clean_comvoi/fr/wavs/17/common_voice_fr_17936621.wav|J'ai aimé.|10|0
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143750.wav|Vous n'êtes pas sans avoir une parente à la campagne?|50|0
+dataset/clean_comvoi/de/wavs/43/common_voice_de_18473877.wav|Sie hat ja keine Ahnung was wir Vorhaben. Die Arme.|63|1
+dataset/clean_comvoi/de/wavs/10/common_voice_de_18390675.wav|Unsere Sonne wird noch einige Milliarden Jahre weiterscheinen.|16|1
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18736166.wav|Hij klom omhoog richting de cabine van de kraan.|27|2
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18877869.wav|Meine Oma hat zwar einen Hühnerstall, aber kein Motorrad.|14|1
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18362581.wav|In der Sonne trocknet nasse Kleidung besonders schnell.|38|1
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18430037.wav|Ich gucke mir die falschen Filme an.|52|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861511.wav|À la fin des fins, elle dort. c'est pas malheureux!|56|0
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18224781.wav|Fährt ein Fernbus zwischen Gelsenkirchen und Krefeld?|80|1
+dataset/clean_comvoi/de/wavs/47/common_voice_de_18529089.wav|Eigene Organe werden naturgemäß nicht abgestoßen.|17|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240290.wav|Respectez l'opposition, s’il vous plaít.|73|0
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863724.wav|Von den Symptomen her würde es passen.|31|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18916033.wav|На сегодняшний день темпы восстановления и реконструкции в Гаити остаются медленными.|7|4
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18589817.wav|Vor dem Dünsten trennt man ihnen die Gliedmaßen ab.|36|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520910.wav|Willst du wirklich flirten?|37|1
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18650653.wav|suǒnuòlā shì wèiyú měiguó yàlìsāngnàzhōu pínàěr xiàn de yīgè fēi jiànzhì dìqū。|54|3
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778622.wav|trente-trois BIS rue du Colonel Rabier, cinquante-huit mille deux cents Cosne-Cours-sur-Loire|68|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887970.wav|Это решение являлось прерогативой государств-членов.|34|4
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233527.wav|Seine Olle hat ein Arschgeweih.|60|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143334.wav|Le bruit d'une discussion violente dans l'antichambre l'interrompit.|50|0
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532888.wav|Mails als vertraulich zu kennzeichnen, sie dann aber nicht zu verschlüsseln, grenzt an Schizophrenie.|69|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891478.wav|Возьми пакет, протягивая ультиматум, сказал Гейка.|34|4
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735803.wav|Gaandeweg leerden we elkaar kennen.|27|2
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366127.wav|London ist die Hauptstadt des Vereinigten Königreichs.|40|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240377.wav|Face à l'hypocrisie, seul le droit vaut.|73|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18860981.wav|Dort spielt die Fotosynthese eine wichtige Rolle.|58|1
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18663397.wav|Als Informatiker muss man Zweierpotenzen einfach im Kopf haben.|38|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18096673.wav|Elle liarde avec la mémoire de Champbaudet.|12|0
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861680.wav|Cela prend parfois plusieurs années.|56|0
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18238108.wav|Sie werden es brauchen.|60|1
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646472.wav|Het is acht voor zeven.|45|2
+dataset/clean_comvoi/de/wavs/40/common_voice_de_18532902.wav|Name, Alter und Adresse herauszufinden, war für den Meisterdetektiv ein Leichtes.|69|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18886057.wav|Was das wieder kostet!|58|1
+dataset/clean_comvoi/de/wavs/43/common_voice_de_18473873.wav|Im Bosskampf regeneriert sich die Gesundheit nicht mehr automatisch.|63|1
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18429986.wav|Messer, Gabel, Schere, Licht dürfen kleine Kinder nicht.|52|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931449.wav|Алжирская делегация ознакомилась с Вашим проектом доклада.|7|4
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18358164.wav|Georgetown ist die Hauptstadt von Guyana.|70|1
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18862731.wav|Eine Hülse verhindert, dass sich das Stahlseil aufdröselt.|58|1
+dataset/clean_comvoi/de/wavs/46/common_voice_de_18215355.wav|Das sind düstere Aussichten.|46|1
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18646958.wav|lāsī pǔ bólǐ shì wèiyú měiguó ākěnsèzhōu bōpǔxiàn de yīgè fēi jiànzhì dìqū。|54|3
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863405.wav|Rue Romain Gary, Angoulême|56|0
+dataset/clean_comvoi/de/wavs/47/common_voice_de_18529182.wav|Wenn der Hallenwart gute Laune hat, dürfen wir länger auf dem Spielfeld verweilen.|17|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888379.wav|Тем не менее положение далеко не удовлетворительное.|34|4
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212392.wav|Weil dort mit hochansteckenden Erregern experimentiert wird, wurde die Forschungseinrichtung auf einer Insel errichtet.|11|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891552.wav|Его каморка была под самой кровлей высокого пятиэтажного дома.|34|4
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088604.wav|trois chemin des Tremardeix|12|0
+dataset/clean_comvoi/nl/wavs/02/common_voice_nl_18008212.wav|Een concentratiekamp is de hel op aarde.|8|2
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366182.wav|Daressalam ist der Regierungssitz von Tansania.|40|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863982.wav|Längst hat Sabine an ihrem neuen Wohnort Wurzeln geschlagen.|31|1
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696464.wav|De tandarts heeft een vulling gezet in mijn tand.|20|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881821.wav|Представитель Марокко обратился с просьбой выступить с повторным кратким заявлением.|34|4
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18886059.wav|Siehst du die Zielscheibe dort?|58|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576618.wav|Tu penses que les poules ont mal en pondant?|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887889.wav|Это показывает широту взглядов нашего пророка.|34|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862923.wav|Men zegt dat geld niet gelukkig maakt.|19|2
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18868917.wav|Он всегда придерживался этой позиции в ходе прошедших переговоров.|3|4
+dataset/clean_comvoi/nl/wavs/09/common_voice_nl_17700027.wav|Bij de inrichting moet je kiezen tussen verven of behangen.|23|2
+dataset/clean_comvoi/de/wavs/06/common_voice_de_18358113.wav|Die Masse eines Atomkerns entsteht überwiegend durch die Interaktion der Teilchen miteinander.|70|1
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084808.wav|six cent quarante-quatre route de Mollardurand|49|0
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18888985.wav|Zählt man als Datenbänker auch zu den Bänkern?|58|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877433.wav|Я их запер, ключ у меня.|34|4
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520829.wav|Durch den Flux-Kompensator sind Zeitreisen überhaupt erst möglich.|37|1
+dataset/clean_comvoi/zh/wavs/06/common_voice_zh-CN_18848994.wav|wángyīchéng， zìmíng dé， tàicāng zhōu rén， zhílì sūzhōu fǔ kūnshānxiàn jūnjí， míngzhāo zhèngzhì rénwù， jìnshì chūshēn。|42|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888324.wav|Мы призываем его постоянно уделять внимание этой области.|34|4
+dataset/clean_comvoi/de/wavs/41/common_voice_de_18224289.wav|Man könnte auch sagen, er hat Visionen.|80|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875879.wav|Он благополучно избегал встречи с своей хозяйкой на лестнице.|51|4
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212413.wav|Was heißt das auf Deutsch?|11|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877321.wav|Я завез людей, которые восемь лет как минимум проработали в поле.|34|4
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18429997.wav|Auf Bismarck wurde mehrfach geschossen, doch er überlebte.|52|1
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197169.wav|Cependant . Elle rougit plus ardemment que s'il l'avait pressée d'achever.|24|0
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892604.wav|Это никогда не было, да и не должно быть ролью группы правительственных экспертов.|53|4
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205662.wav|Wer kommt denn da auf dem Motorrad?|72|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521035.wav|Da steht ein Einbrecher auf dem Balkon, flüsterte sie ängstlich in mein Ohr.|37|1
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776103.wav|qiánmǔ guōshì; féngshì; jìmǔ féngshì。|83|3
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863390.wav|Et je ne suis pas le seul.|56|0
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771335.wav|Wasserball ist richtig anstrengend.|61|1
+dataset/clean_comvoi/de/wavs/29/common_voice_de_18509594.wav|Nach Atem ringend taumelt er zurück.|59|1
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18654403.wav|Wer ersetzt mir das?|38|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653117.wav|Ils résumèrent encore leurs voeux de fédération et de communisme.|47|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573232.wav|ça te dirait un cinéma?|79|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18375917.wav|Dies ist ein sehr sonniger Ort.|38|1
+dataset/clean_comvoi/de/wavs/29/common_voice_de_18509390.wav|Allergiker freuen sich über den eingebauten Pollenfilter.|59|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911509.wav|Этот шаг отвечает его интересам.|34|4
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213186.wav|Zeige mir alle Schnellladestationen in einer Umgebung von fünfzig Kilometern.|11|1
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18650637.wav|māmā de cài chāoxián de|54|3
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911506.wav|Есть тут где-то спасательный круг?|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18923152.wav|Труби, Николай, громче.|7|4
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521020.wav|Das habe ich verstanden.|37|1
+dataset/clean_comvoi/de/wavs/04/common_voice_de_18372670.wav|Gaborone ist die Hauptstadt von Botswana.|29|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18213192.wav|Dort gelten etwas andere Benimmregeln.|11|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18652962.wav|Les balles des soldats bourdonnaient comme des frelons dans l'air suffocant.|47|0
+dataset/clean_comvoi/de/wavs/07/common_voice_de_18430091.wav|Ein Taucher muss nachsehen, wo es klemmt.|52|1
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18591562.wav|In einem Tierversuch wird das Sozialverhalten der Schimpansen untersucht.|5|1
+dataset/clean_comvoi/de/wavs/47/common_voice_de_18529226.wav|Der Moderator ist mit dem Touchscreen sichtlich überfordert.|17|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881253.wav|Это отражает глобальный консенсус относительно важности этого вопроса.|51|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915411.wav|Хорошо, согласился Алешка, я молчу.|7|4
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327185.wav|Wie er es im Lehrgang gelernt hat, versucht Niklas das Gespräch wieder auf eine sachliche Ebene zu bringen.|77|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686362.wav|Frauen und andere Menschen, die nicht gewissen Klischees entsprechen, sind allerdings unterdiagnostiziert.|0|1
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862962.wav|Het is verboden om walvissen te vangen en op te eten.|19|2
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888089.wav|Нет, у меня больше нет вопросов.|34|4
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18736537.wav|Ik ben de perforator kwijt.|27|2
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18641834.wav|Lassen Sie sich nicht von den zahlreichen Nebelkerzen täuschen!|39|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911560.wav|Зрение является наиболее важным чувством для птиц.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877455.wav|Разве я способен на это?|34|4
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778616.wav|Chemin du Coustalat à Coarraze|68|0
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778527.wav|Un poulet. pour Monsieur Marcassol, votre maítre!|68|0
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931324.wav|Какая-нибудь мелочь, весь замысел может испортить!|7|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888022.wav|Тамара приготовилась к финишному рывку.|34|4
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18931869.wav|Необходимо одновременно добиваться прогресса в обеспечении политической стабилизации, безопасности, развития и верховенства закона.|7|4
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18642215.wav|Passen Sie doch auf!|39|1
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689511.wav|Bitte entscheide dich, welche Nudelsoße du kochen möchtest.|22|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915169.wav|Мне нужно тебе кое в чём покаяться.|7|4
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088619.wav|Ils avaient passé la rivière et laissé derrière eux Mont-Saint-Éloy.|12|0
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18096692.wav|L'empereur le savait bien, aussi manoeuvrait-il avec la plus grande précision.|12|0
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212071.wav|Der Albtraum eines jeden Autofahrers!|11|1
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18266590.wav|Die Lichtgeschwindigkeit in Cäsium ist höher als im Vakuum.|30|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18932792.wav|Удивительно, что дождевые черви и морские звезды могут легко отращивать оторванные части тела.|7|4
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18863823.wav|Именно поэтому продвижение к полной ликвидации и запрещению ядерного арсенала носит приоритетный характер.|3|4
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874550.wav|Nicht in allen Varitäten des Deutschen ist der Glottisverschluss gleich häufig.|14|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911538.wav|Поэтому мы призываем правительство Судана рассмотреть вопрос о международном присутствии в этих двух штатах.|34|4
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776310.wav|wànlì wǔnián， dēngjìnshì dìsān jiǎdì yībǎibāshíjǐu míng。|83|3
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18868977.wav|Я так и думал!|3|4
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267216.wav|Ik ben niet blij dat het zo lang duurt.|28|2
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863351.wav|Rue de Funay, Le Mans|56|0
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143519.wav|L'empereur en jouissait alors du fond de son coeur, plus peut-être qu'après ses victoires.|50|0
+dataset/clean_comvoi/nl/wavs/11/common_voice_nl_18267239.wav|Het is tijd om te gaan slapen.|28|2
+dataset/clean_comvoi/de/wavs/33/common_voice_de_18360176.wav|Gibt es einen Stau auf dem Weg zur Arbeit?|74|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877435.wav|Никогда до сих пор не входил он в распивочные.|34|4
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863402.wav|Es ist eben nicht genau derselbe Traum.|31|1
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892728.wav|Они растворились в уличной толпе.|53|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576304.wav|Il envahit les boutiques dont les commis retirèrent les volets.|79|0
+dataset/clean_comvoi/de/wavs/48/common_voice_de_18293483.wav|Meistens werden eher einige Kabel durchgebissen, sodass die Elektrik spinnt.|62|1
+dataset/clean_comvoi/de/wavs/02/common_voice_de_18433160.wav|Was kostet dieser Teppich hier?|18|1
+dataset/clean_comvoi/fr/wavs/20/common_voice_fr_17778564.wav|Rue des Trois Régiments, cinquante-trois mille Laval|68|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696450.wav|Het hoofdgerecht is een koninginnenhapje.|20|2
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892697.wav|Внезапно чей-то пистолет упёрся в мой висок.|53|4
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18779444.wav|Sahne und Pudding gehören auf jeden Speiseplan.|31|1
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18589842.wav|Soeben ist der Herr Direktor mit seiner Gemahlin eingetroffen.|36|1
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18641849.wav|Einfach lesen, nicht kommentieren.|39|1
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18521044.wav|Ich hätte Sie nicht bestehen lassen.|37|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911551.wav|Ты смотри! Я все замечаю.|34|4
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520810.wav|Na toll!|37|1
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327114.wav|Sei nicht so egoistisch!|77|1
+dataset/clean_comvoi/de/wavs/31/common_voice_de_18358050.wav|Abuja ist die Hauptstadt von Nigeria.|44|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18911797.wav|Эффективно функционирующие афганские силы безопасности играют ключевую роль в обеспечении стабильности и мира.|34|4
+dataset/clean_comvoi/de/wavs/14/common_voice_de_18889074.wav|Wir werden den Pharao zu neuem Leben erwecken!|58|1
+dataset/clean_comvoi/de/wavs/37/common_voice_de_18243105.wav|Auch wenn mir die Kunden auf die Nerven gehen, muss ich Höflichkeit bewahren.|30|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576303.wav|Des larmes ridicules débordèrent les cils rares.|79|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520759.wav|Wer möchte alles einen Lolli?|37|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239962.wav|Oui, je luttai contre moi.|73|0
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696371.wav|Hij speelt nog iedere week op de orgel in de kerk.|20|2
+dataset/clean_comvoi/fr/wavs/18/common_voice_fr_18428656.wav|Elle est sale.|9|0
+dataset/clean_comvoi/fr/wavs/13/common_voice_fr_18153474.wav|Eh ben, il ne se gêne guère, le voisin du second!|1|0
+dataset/clean_comvoi/fr/wavs/26/common_voice_fr_18408477.wav|Venez.|4|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686074.wav|Eine Creme brule schmeckt noch jedem.|0|1
+dataset/clean_comvoi/nl/wavs/08/common_voice_nl_18735564.wav|De dikke voering van mijn winterjas kwam van pas tijdens de ijskoude winterdagen.|27|2
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240322.wav|Ils veulent se sauver|73|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888109.wav|Мы всецело поддерживаем предложение в отношении достижения договоренности о верховенстве права.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576310.wav|Les jurons répondirent.|79|0
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366287.wav|Tokio ist die Hauptstadt von Japan.|40|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861667.wav|Ça m'a coûté cher.|56|0
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689463.wav|Dummerweise hatte man vergessen, die Polizei zu schmieren.|22|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088696.wav|Rue de l'Orme Sainte-Marie, quatre-vingt-quatorze, cent quatre-vingt-dix Villeneuve-Saint-Georges|12|0
+dataset/clean_comvoi/ru/wavs/06/common_voice_ru_18920739.wav|В этом залог успеха.|43|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862946.wav|De boot zat geblokkeerd in de sluis.|19|2
+dataset/clean_comvoi/fr/wavs/26/common_voice_fr_18408534.wav|Demain je laverai le linge.|4|0
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18644704.wav|Das spar'n wir uns jetzt.|39|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653042.wav|Tu as vu la dernière bande annonce de Marvel?|47|0
+dataset/clean_comvoi/de/wavs/23/common_voice_de_18389023.wav|St. George's ist die Hauptstadt von Grenada.|78|1
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229612.wav|Über Emotionen lassen sich Menschen viel zu leicht manipulieren.|48|1
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653145.wav|On admet généralement que les humains ont un droit à la vie.|47|0
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18358615.wav|neuf avenue du Docteur Raymond Picaud, zéro six, cent cinquante, Cannes|6|0
+dataset/clean_comvoi/nl/wavs/10/common_voice_nl_17738073.wav|Iedere week ga ik naar de fitness.|41|2
+dataset/clean_comvoi/de/wavs/36/common_voice_de_18327156.wav|Möchte noch jemand für das Amt des Elternsprechers kandidieren?|77|1
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18863899.wav|On a retrouvé des sachets de drogue dans ses prothèses mammaires.|57|0
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18705358.wav|Ich hätte ein Foto machen sollen.|35|1
+dataset/clean_comvoi/de/wavs/33/common_voice_de_18360257.wav|Unser Planet ist geologisch aktiv.|74|1
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17861230.wav|Il me plaít beaucoup, ce garçon. et s'il est d’une bonne famille.|56|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891678.wav|Мы всегда говорили, что путь к примирению будет тернистым.|34|4
+dataset/clean_comvoi/nl/wavs/10/common_voice_nl_17722679.wav|Er mogen nog wat kruiden in de puree.|41|2
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520589.wav|Niemals!|37|1
+dataset/clean_comvoi/fr/wavs/14/common_voice_fr_18197139.wav|trois cent soixante-huit rue des Collots|24|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896974.wav|Здравствуйте, я бы хотел заказать пиццу на дом.|34|4
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18777921.wav|Ach ja, die Kolonie in Afrika hatte ich gar nicht mehr auf dem Zettel.|31|1
+dataset/clean_comvoi/fr/wavs/01/common_voice_fr_17810202.wav|Vous avez raison! Il s'agit d’un accord historique.|67|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887766.wav|В Тимирязевке его называли Химичка.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18573251.wav|Elle remplace les Elle par Je.|79|0
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239607.wav|À droite de la cheminée, un cordon de sonnette.|73|0
+dataset/clean_comvoi/de/wavs/01/common_voice_de_18663366.wav|Du wirst es nicht glauben, aber ich habe ihm erlaubt X-Box zu spielen.|38|1
+dataset/clean_comvoi/de/wavs/17/common_voice_de_18233514.wav|In der Folge steigt die Leistung.|60|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877331.wav|Я хотел бы искренне поблагодарить его и пожелать ему всего наилучшего в будущем.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576695.wav|Indéfiniment, ces messieurs s'excitèrent.|79|0
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18881301.wav|Международные отношения носят сложный характер, и как раз поэтому и существуют международные организации.|51|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17872477.wav|La parole est à Monsieur François Ruffin.|56|0
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084738.wav|Ne serre pas trop. j'ai le sang à la tête!|49|0
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205735.wav|Stellen Sie möglichen Zeugen keine Suggestivfragen.|72|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18932790.wav|Вот почему наша доктрина артикулируется вокруг концепции экстремальных обстоятельств законной обороны.|7|4
+dataset/clean_comvoi/fr/wavs/10/common_voice_fr_18877968.wav|Sur le sujet, j'étais vraiment intarissable.|64|0
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18439394.wav|Wann war Marius das letzte Mal online?|36|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18896910.wav|Толстовка казалась слишком маленькой.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888457.wav|Предоставление и реализация таких гарантий является принципиальной задачей для всех участников Договора.|34|4
+dataset/clean_comvoi/nl/wavs/01/common_voice_nl_17696441.wav|Mijn opa draagt een hoorapparaat.|20|2
+dataset/clean_comvoi/de/wavs/13/common_voice_de_18653391.wav|Unter meinen Nachbarn gibt es eindeutig zu viele Spießbürger.|36|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887921.wav|Вы знаете, ребята, этот болтун хочет убежать в Красную Армию!|34|4
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18653297.wav|Je crierai haro sur la plante.|47|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888249.wav|Несмотря на снижение угрозы голода в целом, гуманитарный кризис в Сомали далек от разрешения.|34|4
+dataset/clean_comvoi/zh/wavs/05/common_voice_zh-CN_18682330.wav|àiwá shì yīgè wèiyú měiguó ālābāmǎzhōu lándào fūxiàn de fēi jiànzhì dìqū。|82|3
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493684.wav|Tu vois ce que je veux dire?|75|0
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18685669.wav|An der Wand des Zahnarztes hängt eine riesige, verrostete Zange.|0|1
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18274179.wav|Alles, was er diktierte, musste die Sekretärin später in den Computer eingeben.|48|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18602950.wav|J'ai une très mauvaise mémoire.|79|0
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18591510.wav|Mit einer alten Lore kann man in das ehemalige Bergwerk fahren.|5|1
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18560990.wav|Luisa ist da schon bodenständiger.|5|1
+dataset/clean_comvoi/zh/wavs/02/common_voice_zh-CN_18593144.wav|měiguólùjūn juédìng chénglì yīgè dúlì de sīlìngbù lái tǒngguǎn qíngbào bùdùi。|2|3
+dataset/clean_comvoi/fr/wavs/09/common_voice_fr_18652998.wav|Ses cheveux noirs se répandirent autour d'une tête fantastique, blême, enrouée.|47|0
+dataset/clean_comvoi/nl/wavs/02/common_voice_nl_18056955.wav|Ze had de wenkbrauwen van haar moeder, maar de ogen van haar vader.|8|2
+dataset/clean_comvoi/fr/wavs/07/common_voice_fr_18084747.wav|Chemin de Chiconet, Sallaumines|49|0
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18644707.wav|Wieso ist die Waschmaschine immer so laut?|39|1
+dataset/clean_comvoi/fr/wavs/06/common_voice_fr_18863935.wav|vingt-cinq rue Félix-le-Carvennec, trente-trois mille sept cent quatre-vingts Soulac-sur-Mer|57|0
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18725275.wav|Ein Auftragskiller hat ihn bereits im Fadenkreuz.|35|1
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875411.wav|И это не связано с попыткой упредить предстоящие нам трудные переговоры.|51|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881827.wav|Нам надлежит крепить узы с гражданским обществом.|34|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576289.wav|Un exemple de droit-liberté est le droit de se marier.|79|0
+dataset/clean_comvoi/fr/wavs/08/common_voice_fr_18873813.wav|Tout d'abord, permettez-moi de saluer la proposition du Gouvernement d’augmenter les astreintes.|6|0
+dataset/clean_comvoi/de/wavs/47/common_voice_de_18529128.wav|Mit freien Treibern wird Hardware-Beschleunigung leider nur rudimentär unterstützt.|17|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877383.wav|Однако мнение о том, что Ислам и демократия несовместимы, ошибочно.|34|4
+dataset/clean_comvoi/ru/wavs/03/common_voice_ru_18892776.wav|"Гадать о выводах ""Исследования по альтернативам системе 'Трайдент'"" пока еще слишком рано."|53|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888323.wav|А раз так, то о каком языке угроз говорила Германия?|34|4
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686014.wav|Jeder Angestellte im öffentlichen Dienst muss Kaffee kochen können.|0|1
+dataset/clean_comvoi/de/wavs/31/common_voice_de_18358003.wav|Weder Sydney noch Melbourne sind die Hauptstädte Australiens.|44|1
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877332.wav|Здесь сидят люди, которые трусливо по ночам обирают сады мирных жителей.|34|4
+dataset/clean_comvoi/fr/wavs/11/common_voice_fr_17863352.wav|Mais, je ne m'en plains pas, oh!|56|0
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17708518.wav|Zinnen begin je met een hoofdletter.|19|2
+dataset/clean_comvoi/fr/wavs/10/common_voice_fr_18864542.wav|Je puis faire du bruit?|64|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18881952.wav|Михаила Квакина ко мне, попросил Тимур.|34|4
+dataset/clean_comvoi/nl/wavs/03/common_voice_nl_17862931.wav|Ga je dit jaar al in juni op vakantie?|19|2
+dataset/clean_comvoi/zh/wavs/07/common_voice_zh-CN_18776085.wav|péijīnrùi， hánguó nv̌gēshǒu。|83|3
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874387.wav|Hier sehen Sie die Einwohnerentwicklung von Kempten im Allgäu seit achtzehnhundert.|14|1
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874330.wav|Hier können wir nicht stehen bleiben.|14|1
+dataset/clean_comvoi/de/wavs/46/common_voice_de_18203401.wav|Vor der Prüfung sollte man keine streitigen Diskussionen mit dem Prüfer beginnen.|46|1
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18211955.wav|Frau Schröder ist halt etwas künstlerisch angehaucht.|11|1
+dataset/clean_comvoi/de/wavs/24/common_voice_de_18863435.wav|Das ist doch ein alter Hut.|31|1
+dataset/clean_comvoi/nl/wavs/02/common_voice_nl_18008131.wav|Jullie hond heeft een schattig snoetje.|8|2
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493730.wav|Tu mords le tableau?|75|0
+dataset/clean_comvoi/de/wavs/45/common_voice_de_18366137.wav|Das Kabel endet nicht in einer Steckdose, sondern führt bis in das Kraftwerk.|40|1
+dataset/clean_comvoi/fr/wavs/19/common_voice_fr_18088805.wav|Mais se remettant avec effort: Vous avez une délicieuse habitation, monsieur Espérance, reprit Gabrielle.|12|0
+dataset/clean_comvoi/zh/wavs/05/common_voice_zh-CN_18682201.wav|píshān luókē yīgè shǔ。|82|3
+dataset/clean_comvoi/fr/wavs/10/common_voice_fr_18864546.wav|Il me reste Dolorès.|64|0
+dataset/clean_comvoi/de/wavs/49/common_voice_de_18205903.wav|Dadurch, dass die Schrauben regelmäßig bewegt werden, rotten sie nicht fest.|72|1
+dataset/clean_comvoi/fr/wavs/16/common_voice_fr_18143663.wav|Rue de la Capitale à Marseille|50|0
+dataset/clean_comvoi/de/wavs/27/common_voice_de_18520845.wav|Ich habe es nie gelernt.|37|1
+dataset/clean_comvoi/ru/wavs/01/common_voice_ru_18894147.wav|За ответом приду завтра в такое же время.|3|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18888033.wav|Некоторые регионы в мире заключили такие договоры, и мы это приветствуем.|34|4
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18877296.wav|Наша работа на сегодня завершается.|34|4
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18240421.wav|En réalité, c'est un mouton.|73|0
+dataset/clean_comvoi/de/wavs/44/common_voice_de_18229639.wav|Darüber, was ein Lenker ist, streiten sich Deutsche und Österreicher bis heute.|48|1
+dataset/clean_comvoi/fr/wavs/13/common_voice_fr_18171811.wav|Toussez donc plus bas! vous allez réveiller Mademoiselle.|1|0
+dataset/clean_comvoi/de/wavs/05/common_voice_de_18689518.wav|Leute übers Ohr zu hauen, gehört praktisch zu seinem Job.|22|1
+dataset/clean_comvoi/fr/wavs/25/common_voice_fr_18493687.wav|Henri huit était venu avec Anne Boleyn.|75|0
+dataset/clean_comvoi/de/wavs/19/common_voice_de_18874536.wav|Es ist wichtig, den Rasenziegel gut anzugießen.|14|1
+dataset/clean_comvoi/de/wavs/52/common_voice_de_18686103.wav|Heute habe ich gehört, wir könnten mal vierzig Tage nicht lügen.|0|1
+dataset/clean_comvoi/nl/wavs/04/common_voice_nl_18646502.wav|Telenet en Proximus hebben concurrerende producten in Vlaanderen.|45|2
+dataset/clean_comvoi/ru/wavs/04/common_voice_ru_18875207.wav|Канада намерена играть активную роль в реализации этой инициативы.|51|4
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603163.wav|De même que la porte est une entrée, ou une sortie.|79|0
+dataset/clean_comvoi/zh/wavs/03/common_voice_zh-CN_18660227.wav|lǐjiāfēn de dìdì lǐ míngzhé wèi xiànrèn yúnlínxiàn yìyuán。|54|3
+dataset/clean_comvoi/de/wavs/50/common_voice_de_18639110.wav|Die Seiten bieten Informationen zum Datenschutz und ein Impressum.|39|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603315.wav|Avant d'introduire, il remettait à l'avocat le petit carton indicateur.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18891513.wav|А это еще что с тобой за хлюпик?|34|4
+dataset/clean_comvoi/de/wavs/51/common_voice_de_18771471.wav|Dagegen können schon kleinste Arbeitszeitverstöße zu einer Kündigung führen.|61|1
+dataset/clean_comvoi/de/wavs/22/common_voice_de_18706260.wav|Reinhold kann es noch immer nicht fassen.|35|1
+dataset/clean_comvoi/ru/wavs/05/common_voice_ru_18915189.wav|Поэтому мы просим Секретариат изъять эту рекомендацию из доклада.|7|4
+dataset/clean_comvoi/de/wavs/12/common_voice_de_18588475.wav|Ich bestimme selbst, was ich tue und was ich lasse.|5|1
+dataset/clean_comvoi/fr/wavs/21/common_voice_fr_18239992.wav|Comment! vous ne me demandez même pas où je vais?|73|0
+dataset/clean_comvoi/de/wavs/21/common_voice_de_18212127.wav|Einmal erworbene Kurzsichtigkeit wird man nicht wieder los.|11|1
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576179.wav|On serrait les pantalons sur les tailles.|79|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18603377.wav|Je ne vois pas comment cela pourrait se justifier.|79|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576693.wav|Une andouille a tort de penser à la plupart des oligarques accoutumés au luxe.|79|0
+dataset/clean_comvoi/fr/wavs/04/common_voice_fr_18576654.wav|Ses paupières retombaient sur le spectacle de la foule anxieuse et rieuse.|79|0
+dataset/clean_comvoi/ru/wavs/02/common_voice_ru_18887793.wav|Только Хантингтон твердо убежден, что они несовместимы.|34|4
+dataset/clean_comvoi/de/wavs/04/common_voice_de_18372653.wav|Die kostenlose Brücke wurde von reichen Bürgern errichtet.|29|1

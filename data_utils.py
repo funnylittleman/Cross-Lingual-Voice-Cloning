@@ -7,6 +7,8 @@ import layers
 from utils import load_wav_to_torch, load_filepaths_and_text
 from text import text_to_sequence
 
+from encoder import inference as encoder
+from encoder.params_model import model_embedding_size as speaker_embedding_size
 
 class TextMelLoader(torch.utils.data.Dataset):
     """
@@ -28,11 +30,16 @@ class TextMelLoader(torch.utils.data.Dataset):
             hparams.mel_fmax)
         random.seed(hparams.seed)
         random.shuffle(self.audiopaths_and_text)
+        self.speaker_encoder = encoder.load_model('encoder/pretrained.pt')
 
     def get_mel_text_pair(self, audiopath_and_text):
         # separate filename and text
         audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
         speaker, lang =  int(float(audiopath_and_text[2])), int(float(audiopath_and_text[3]))
+
+        preprocessed_wav = encoder.preprocess_wav(audiopath)
+        speaker = encoder.embed_utterance(preprocessed_wav)
+
         text = self.get_text(text)
         mel = self.get_mel(audiopath)
         return (text, mel, speaker, lang)

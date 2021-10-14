@@ -27,8 +27,8 @@ def create_hparams(hparams_string=None, verbose=False):
         load_mel_from_disk=False,
         audio_dtype = 'np.int16',                 #Data type of input audio files. If not 'np.int16' ; will be converted to it.
         use_librosa = False,                      #If you want to use librosa for loading file and automatically resampling to sampling_rate
-        training_files='<train_txt_file_path>',
-        validation_files='<val_txt_file_path>',
+        training_files='dataset/train.txt',
+        validation_files='dataset/val.txt',
         text_cleaners=['basic_cleaners'],
 
         ################################
@@ -92,8 +92,8 @@ def create_hparams(hparams_string=None, verbose=False):
         ###############################
         speaker_embedding_dim = 64,
         lang_embedding_dim = 3,
-        n_langs = 2,
-        n_speakers = 6,
+        n_langs = 5,
+        n_speakers = 256,
 
         ###############################
         ## Speaker Classifier Params ##
@@ -104,10 +104,10 @@ def create_hparams(hparams_string=None, verbose=False):
         ## Residual Encoder Params  ##
         ##############################
         residual_encoding_dim = 32,          #16 for q(z_l|X) and 16 for q(z_o|X)
-        dim_yo = 6,                          #(==n_speakers) dim(y_{o})
+        dim_yo = 256,                          #(==n_speakers) dim(y_{o})
         dim_yl = 10,                         #K
-        mcn = 8                              #n for monte carlo sampling of q(z_l|X)and q(z_o|X)
-    )
+        mcn = 8,                              #n for monte carlo sampling of q(z_l|X)and q(z_o|X)
+        )
 
     if hparams_string:
         tf.logging.info('Parsing command line hparams: %s', hparams_string)
