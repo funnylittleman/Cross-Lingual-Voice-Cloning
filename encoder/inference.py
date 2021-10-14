@@ -27,6 +27,7 @@ def load_model(weights_fpath: Path, device=None):
     global _model, _device
     if device is None:
         _device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    _device = 'cpu'
     elif isinstance(device, str):
         _device = torch.device(device)
     _model = SpeakerEncoder(_device, torch.device("cpu"))
