@@ -149,7 +149,7 @@ def validate(model, criterion, valset, iteration, batch_size, n_gpus,
         for i, batch in enumerate(val_loader):
             x, y = model.parse_batch(batch)
             y_pred = model(x)
-            loss = criterion(y_pred, y, model.decoder.residual_encoder, x[5])
+            loss = criterion(y_pred, y, model.decoder.residual_encoder, x[5], x[6])
             if distributed_run:
                 reduced_val_loss = reduce_tensor(loss.data, n_gpus).item()
             else:
@@ -231,7 +231,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             x, y = model.parse_batch(batch)
             y_pred = model(x)
 
-            loss = criterion(y_pred, y, model.decoder.residual_encoder, x[5])
+            loss = criterion(y_pred, y, model.decoder.residual_encoder, x[5], x[6])
             if hparams.distributed_run:
                 reduced_loss = reduce_tensor(loss.data, n_gpus).item()
             else:

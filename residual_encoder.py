@@ -11,7 +11,8 @@ class residual_encoder(nn.Module) :
         self.conv1 = nn.Conv1d(hparams.n_mel_channels, 512, 3, 1)
         self.bi_lstm = nn.LSTM(512, 256, 2, bidirectional = True, batch_first=True)
         self.linear = nn.Linear(512, 32)
-        self.residual_encoding_dim = int(hparams.residual_encoding_dim/2)
+        # self.residual_encoding_dim = int(hparams.residual_encoding_dim/2)
+        self.residual_encoding_dim = int(hparams.residual_encoding_dim)
         self.register_buffer('min_std_dev', torch.exp(torch.tensor([log_min_std_dev]).float()) )
         
     def forward(self, x):
@@ -39,7 +40,8 @@ class continuous_given_discrete(nn.Module) :
     def __init__(self, hparams, n_disc, std_init=-1) :
         super(continuous_given_discrete, self).__init__()
         self.n_disc = n_disc
-        self.residual_encoding_dim  = int(hparams.residual_encoding_dim/2)
+        # self.residual_encoding_dim  = int(hparams.residual_encoding_dim/2)
+        self.residual_encoding_dim  = int(hparams.residual_encoding_dim)
         self.std_init = torch.tensor([std_init]).float()
         
         self.cont_given_disc_mus    = nn.Parameter(torch.randn((self.n_disc, self.residual_encoding_dim)))
@@ -73,22 +75,22 @@ class residual_encoders(nn.Module) :
         super(residual_encoders, self).__init__()
         
         #Variational Posteriors
-        self.q_zl_given_X = residual_encoder(hparams, -2)        #q(z_{l}|X)
+        # self.q_zl_given_X = residual_encoder(hparams, -2)        #q(z_{l}|X)
         self.q_zo_given_X = residual_encoder(hparams, -4)        #q(z_{o}|X)
-        self.q_zl_given_X_at_x = None
+        # self.q_zl_given_X_at_x = None
         self.q_zo_given_X_at_x = None
         
         self.residual_encoding_dim = hparams.residual_encoding_dim
         self.mcn = hparams.mcn
         
         #Priors
-        self.y_l_probs = nn.Parameter(torch.ones((hparams.dim_yl)))
-        self.y_l_probs.requires_grad = False
-        self.y_l = torch.distributions.categorical.Categorical(self.y_l_probs)
+        # self.y_l_probs = nn.Parameter(torch.ones((hparams.dim_yl)))
+        # self.y_l_probs.requires_grad = False
+        # self.y_l = torch.distributions.categorical.Categorical(self.y_l_probs)
         self.p_zo_given_yo = continuous_given_discrete(hparams, hparams.dim_yo, -2)
-        self.p_zl_given_yl = continuous_given_discrete(hparams, hparams.dim_yl, -1)
+        # self.p_zl_given_yl = continuous_given_discrete(hparams, hparams.dim_yl, -1)
         
-        self.q_yl_given_X = None
+        # self.q_yl_given_X = None
     
     def calc_q_tilde(self, sampled_zl) :
         '''
@@ -112,10 +114,13 @@ class residual_encoders(nn.Module) :
         returns concatenation of z_{o} and z_{l} sampled from respective distributions
         '''
         x = x.transpose(1,0)
-        self.q_zl_given_X_at_x, self.q_zo_given_X_at_x = self.q_zl_given_X(x), self.q_zo_given_X(x)         
-        z_l, z_o = self.q_zl_given_X_at_x.rsample((self.mcn, )), self.q_zo_given_X_at_x.rsample((self.mcn,)) #[mcn, batch_size, residual_encoding_dim/2]
-        self.calc_q_tilde(z_l)        
-        return torch.cat([z_l,z_o], dim=-1).reshape(-1, self.residual_encoding_dim)
+        # self.q_zl_given_X_at_x, self.q_zo_given_X_at_x = self.q_zl_given_X(x), self.q_zo_given_X(x)    
+        self.q_zo_given_X_at_x = self.q_zo_given_X(x)   
+        # z_l, z_o = self.q_zl_given_X_at_x.rsample((self.mcn, )), self.q_zo_given_X_at_x.rsample((self.mcn,)) #[mcn, batch_size, residual_encoding_dim/2]
+        z_o = self.q_zo_given_X_at_x.rsample((self.mcn,)) #[mcn, batch_size, residual_encoding_dim/2]
+        # self.calc_q_tilde(z_l)        
+        # return torch.cat([z_l,z_o], dim=-1).reshape(-1, self.residual_encoding_dim)
+        return z_o.reshape(-1, self.residual_encoding_dim)
     
     def redefine_y_l(self) :
         '''To be called whenever model is sent to new device'''
@@ -125,12 +130,14 @@ class residual_encoders(nn.Module) :
         '''
         The parameters :- cont_given_disc_mus, sigmas, are altered, so their distributions need to be made again.
         '''
-        self.p_zo_given_yo.after_optim_step()
+        # self.p_zo_given_yo.after_optim_step()
         self.p_zl_given_yl.after_optim_step()
     
-    def infer(self, y_o_idx, y_l_idx=None) :
-        if y_l_idx is None :
-            y_l_idx = self.y_l.sample()
-        z_l = self.p_zl_given_yl.distrib_lis[y_l_idx].sample()
+    # def infer(self, y_o_idx, y_l_idx=None) :
+    def infer(self, y_o_idx) :
+        # if y_l_idx is None :
+        #     y_l_idx = self.y_l.sample()
+        # z_l = self.p_zl_given_yl.distrib_lis[y_l_idx].sample()
         z_o = self.p_zo_given_yo.distrib_lis[y_o_idx].sample()
-        return torch.cat([z_l,z_o], dim=-1).unsqueeze(dim=0)
+        # return torch.cat([z_l,z_o], dim=-1).unsqueeze(dim=0)
+        return z_o.unsqueeze(dim=0)

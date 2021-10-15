@@ -38,11 +38,11 @@ class TextMelLoader(torch.utils.data.Dataset):
         speaker, lang =  int(float(audiopath_and_text[2])), int(float(audiopath_and_text[3]))
 
         preprocessed_wav = encoder.preprocess_wav(audiopath)
-        speaker = encoder.embed_utterance(preprocessed_wav)
+        speaker_emb = encoder.embed_utterance(preprocessed_wav)
 
         text = self.get_text(text)
         mel = self.get_mel(audiopath)
-        return (text, mel, speaker, lang)
+        return (text, mel, speaker, lang, speaker_emb)
 
     def get_mel(self, filename):
         if not self.load_mel_from_disk:

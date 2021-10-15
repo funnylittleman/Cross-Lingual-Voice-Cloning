@@ -396,7 +396,7 @@ class Decoder(nn.Module):
         gate_prediction = self.gate_layer(decoder_hidden_attention_context)
         return decoder_output, gate_prediction, self.attention_weights
 
-    def concat_speaker_lang_res_embeds(self, decoder_inputs, speaker, lang, residual_encoding) :
+    def concat_speaker_lang_res_embeds(self, decoder_inputs, speaker_emb, lang, residual_encoding) :
         '''
         decoder_inputs = [max_audio_len, batch_size, n_mel_filters*n_frames_per_step]
         residual_encoding = [batch_size*mcn, residual_encoding_dim]
@@ -405,14 +405,14 @@ class Decoder(nn.Module):
         RETURNS: [max_audio_len, batch_size*mcn, n_mel_filters*n_frames_per_step+speaker_embed+lang_embed+residual_embed]
         '''
         # speaker_embeds, lang_embeds = self.speaker_embeds(speaker), self.lang_embeds(lang)
-        speaker_embeds, lang_embeds = speaker, self.lang_embeds(lang)
+        speaker_embeds, lang_embeds = speaker_emb, self.lang_embeds(lang)
         decoder_inputs = decoder_inputs.transpose(0,1).transpose(1,2).repeat(self.mcn, 1, 1)
         speaker_embeds, lang_embeds = speaker_embeds.repeat(self.mcn, 1), lang_embeds.repeat(self.mcn, 1)
         to_append = torch.cat([speaker_embeds, lang_embeds, residual_encoding], dim=-1)        
         to_append = to_append.repeat(decoder_inputs.shape[2],1,1).transpose(0,1).transpose(1,2)
         return torch.cat([decoder_inputs, to_append], dim=1).transpose(2,1).transpose(1,0)
 
-    def forward(self, memory, decoder_inputs, memory_lengths, speaker, lang):
+    def forward(self, memory, decoder_inputs, memory_lengths, speaker_emb, lang):
         """ Decoder forward pass for training
         PARAMS
         ------
@@ -435,7 +435,7 @@ class Decoder(nn.Module):
         flattened_decoder_inputs = flattened_decoder_inputs.reshape(flattened_decoder_inputs.size(0), -1,  int(decoder_inputs.size(2)/self.n_frames_per_step) ).transpose(0,1)
         residual_encoding = self.residual_encoder(flattened_decoder_inputs)
         
-        decoder_inputs = self.concat_speaker_lang_res_embeds(decoder_inputs, speaker, lang, residual_encoding)
+        decoder_inputs = self.concat_speaker_lang_res_embeds(decoder_inputs, speaker_emb, lang, residual_encoding)
         decoder_inputs = self.prenet(decoder_inputs)
 
         memory = memory.repeat(self.mcn,1,1)
@@ -459,7 +459,7 @@ class Decoder(nn.Module):
 
         return mel_outputs, gate_outputs, alignments
 
-    def inference(self, memory, speaker, lang):
+    def inference(self, memory, speaker_emb, lang):
         """ Decoder inference
         PARAMS
         ------
@@ -481,10 +481,10 @@ class Decoder(nn.Module):
         mel_outputs, gate_outputs, alignments = [], [], []
         while True:
             
-            residual_encoding = self.residual_encoder.infer(speaker)  #torch.zeros((1,32), device='cuda:0')  #batch_sizeXresidual_encoding_dim
+            residual_encoding = self.residual_encoder.infer(lang)  #torch.zeros((1,32), device='cuda:0')  #batch_sizeXresidual_encoding_dim
             
             decoder_input = decoder_input.unsqueeze(1)
-            decoder_input = self.concat_speaker_lang_res_embeds(decoder_input, speaker, lang, residual_encoding).squeeze(1)
+            decoder_input = self.concat_speaker_lang_res_embeds(decoder_input, speaker_emb, lang, residual_encoding).squeeze(1)
 
             decoder_input = self.prenet(decoder_input)
             mel_output, gate_output, alignment = self.decode(decoder_input)
@@ -526,7 +526,7 @@ class Tacotron2(nn.Module):
         self.speaker_classifier = speaker_classifier(hparams)
 
     def parse_batch(self, batch):
-        text_padded, input_lengths, mel_padded, gate_padded, output_lengths, speaker, lang = batch
+        text_padded, input_lengths, mel_padded, gate_padded, output_lengths, speaker, lang, speaker_emb = batch
         text_padded = to_gpu(text_padded).long()
         input_lengths = to_gpu(input_lengths).long()
         max_len = torch.max(input_lengths.data).item()
@@ -534,9 +534,10 @@ class Tacotron2(nn.Module):
         gate_padded = to_gpu(gate_padded).float()
         output_lengths = to_gpu(output_lengths).long()
         speaker = to_gpu(speaker).long()
+        speaker_emb = to_gpu(speaker_emb).long()
         lang = to_gpu(lang).long()
         return (
-            (text_padded, input_lengths, mel_padded, max_len, output_lengths, speaker, lang),
+            (text_padded, input_lengths, mel_padded, max_len, output_lengths, speaker, lang, speaker_emb),
             (mel_padded.repeat(self.mcn,1,1), gate_padded.repeat(self.mcn,1)))
 
     def parse_output(self, outputs, output_lengths=None):
@@ -556,7 +557,7 @@ class Tacotron2(nn.Module):
         return outputs
 
     def forward(self, inputs):
-        text_inputs, text_lengths, mels, max_len, output_lengths, speaker, lang = inputs
+        text_inputs, text_lengths, mels, max_len, output_lengths, speaker, lang, speaker_emb = inputs
         text_lengths, output_lengths = text_lengths.data, output_lengths.data
 
         embedded_inputs = self.embedding(text_inputs).transpose(1, 2)
@@ -568,7 +569,7 @@ class Tacotron2(nn.Module):
         spkr_clsfir_logits = self.speaker_classifier(encdr_out_for_spkr_clsfir, text_lengths)
 
         mel_outputs, gate_outputs, alignments = self.decoder(
-            encoder_outputs, mels, memory_lengths=text_lengths, speaker=speaker, lang=lang)
+            encoder_outputs, mels, memory_lengths=text_lengths, speaker_emb=speaker_emb, lang=lang,)
         
         mel_outputs_postnet = self.postnet(mel_outputs)
         mel_outputs_postnet = mel_outputs + mel_outputs_postnet
@@ -577,13 +578,13 @@ class Tacotron2(nn.Module):
             [mel_outputs, mel_outputs_postnet, gate_outputs, alignments, spkr_clsfir_logits],
             output_lengths)
 
-    def inference(self, inputs, speaker, language):
+    def inference(self, inputs, speaker_emb, language):
         self.mcn=1
         embedded_inputs = self.embedding(inputs).transpose(1, 2)
         encoder_outputs = self.encoder.inference(embedded_inputs)
         
         mel_outputs, gate_outputs, alignments = self.decoder.inference(
-            encoder_outputs, speaker, language)
+            encoder_outputs, speaker_emb, language)
 
         mel_outputs_postnet = self.postnet(mel_outputs)
         mel_outputs_postnet = mel_outputs + mel_outputs_postnet

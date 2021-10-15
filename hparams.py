@@ -84,7 +84,7 @@ def create_hparams(hparams_string=None, verbose=False):
         anneal = 0,                             #number of iterations to anneal lr from 0 to 'learning_rate'
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=64,
+        batch_size=8,
         mask_padding=True,  # set model's padded outputs to padded values
 
         ###############################
@@ -93,7 +93,7 @@ def create_hparams(hparams_string=None, verbose=False):
         speaker_embedding_dim = 64,
         lang_embedding_dim = 3,
         n_langs = 5,
-        n_speakers = 256,
+        n_speakers = 84,
 
         ###############################
         ## Speaker Classifier Params ##
@@ -103,8 +103,8 @@ def create_hparams(hparams_string=None, verbose=False):
         ##############################
         ## Residual Encoder Params  ##
         ##############################
-        residual_encoding_dim = 32,          #16 for q(z_l|X) and 16 for q(z_o|X)
-        dim_yo = 256,                          #(==n_speakers) dim(y_{o})
+        residual_encoding_dim = 16,          #16 for q(z_l|X) and 16 for q(z_o|X)
+        dim_yo = 5,                          # ==n_langs  | (==n_speakers) dim(y_{o})
         dim_yl = 10,                         #K
         mcn = 8,                              #n for monte carlo sampling of q(z_l|X)and q(z_o|X)
         )
