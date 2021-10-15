@@ -23,6 +23,7 @@ with open(ALL, 'r',encoding='utf-8') as f:
 speakers = list(speakers)
 print('Total speakers: ', len(speakers))
 langs = list(langs)
+print(langs)
 print('Total languages: ', len(langs))
 newlines = []
 for p, t, s, l in lines:
