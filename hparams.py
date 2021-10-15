@@ -90,7 +90,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ###############################
         # Speaker and Lang Embeddings #
         ###############################
-        speaker_embedding_dim = 64,
+        speaker_embedding_dim = 256,
         lang_embedding_dim = 3,
         n_langs = 5,
         n_speakers = 84,

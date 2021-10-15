@@ -89,6 +89,7 @@ class TextMelCollate():
         
         speakers = torch.tensor([batch[i][2] for i in range(len(batch))])
         langs = torch.tensor([batch[i][3] for i in range(len(batch))])
+        speaker_embs = torch.tensor([batch[i][4] for i in range(len(batch))])
         
         # Right zero-pad all one-hot text sequences to max input length
         input_lengths, ids_sorted_decreasing = torch.sort(
@@ -122,4 +123,4 @@ class TextMelCollate():
             output_lengths[i] = mel.size(1)
 
         return text_padded, input_lengths, mel_padded, gate_padded, \
-            output_lengths, speakers, langs
+            output_lengths, speakers, langs, speaker_embs
