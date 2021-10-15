@@ -124,14 +124,15 @@ class residual_encoders(nn.Module) :
     
     def redefine_y_l(self) :
         '''To be called whenever model is sent to new device'''
-        self.y_l = torch.distributions.categorical.Categorical(self.y_l_probs)
+        # self.y_l = torch.distributions.categorical.Categorical(self.y_l_probs)
+        pass
 
     def after_optim_step(self) :
         '''
         The parameters :- cont_given_disc_mus, sigmas, are altered, so their distributions need to be made again.
         '''
-        # self.p_zo_given_yo.after_optim_step()
-        self.p_zl_given_yl.after_optim_step()
+        self.p_zo_given_yo.after_optim_step()
+        # self.p_zl_given_yl.after_optim_step()
     
     # def infer(self, y_o_idx, y_l_idx=None) :
     def infer(self, y_o_idx) :
